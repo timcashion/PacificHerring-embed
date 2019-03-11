@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Field Names and Descriptions for DFO Pacific Region Commercial Licence data file.,
 ,
 Field Name,Description
@@ -232,3 +233,239 @@ ZY5,Herring Bait - Research
 ZY6,Herring Bait - Charity
 ZZ,Transporting
 ZZA,Atlantic Salmon
+=======
+Field Names and Descriptions for DFO Pacific Region Commercial Licence data file.,
+,
+Field Name,Description
+PUBLISHED DATE,Date and time that this record was published.
+LICENCE PREFIX,"Licence Prefix.  Identifies the fishery for which this licence was issued.  For example, the ""AS""  Licence Prefix indicates that the licence was issued for the Salmon Seine fishery.  Other Licence Prefixes are defined in the ""Commercial Licence Types (Licence Prefixes)"" Reference Data report."
+LICENCE ROOT,Unique number distinguishing this Licence from other Licences with the same Licence Prefix.
+LICENCE SUFFIX,"Fishing year or season to which the Licence applies.  If the season spans more than one calendar year, then the first calendar year is used.  For example, the ""2014/2015"" season would have a Suffix of ""2014""."
+LICENCE TAB,"Licence Tab is the concatenation of the Licence Prefix, Root and Suffix. For example, ""L 411 2014"" translates to the Halibut Fishery, licence number 411 in the 2014/2015 season."
+LICENCE STATUS,"Status of the licence as of the PUBLISHED_DTT.  Status values include: ""APPLICATION"", ""APPROVAL PENDING"", ""EXPIRED"", ""RENEWAL"", ""RETIRED TO AFS"", ""RETIRED/RELINQUISHED"", ""VALID"" and ""VOLUNTARILY RETIRED""."
+LIEL_SEQ,"Licence Eligibility Sequence.  This identifier is used to track the eligibility to have a Licence in a limited entry fishery.  The same LIEL_SEQ value will appear in all Commercial Licences issued to that eligibility in all seasons.  For example, all licences issued to T 10 in any season (i.e. T 10 2014, T 10 2013, T 10 2012, etc.) will have the same LIEL_SEQ.  This value can be very helpful in tracking the history of a Licence.  Note: even if a Licence is retired and is reissued as a F Licence, it will retain the same LIEL_SEQ."
+LICENCE ISSUE DATE,"Date that the Licence was issued (i.e. LICENCE STATUS became ""VALID"").  Note that some older records do not have this value populated."
+LICENCE EXPIRY DATE,"Date that the Licence became (or is to become) ""EXPIRED"".  Note that some older records do not have this value populated."
+FISHERY GROUP,"Name of the Fishery Group.  Can be useful in grouping related licences with different Licence Prefixes together.  For example, the ""SALMON SEINE"" Fishery Group will include all Salmon Seine Licences regardless of whether they have the ""AS"", ""ASA"", ""ASB"", ""FAS"", ""FASA"" or ""FASB"" Licence Prefix."
+AREA,"Fishery specific Licence Area option (or selection) where it is applicable.  For example, Geoduck and Horseclam Licences may have an AREA of ""GEODUCK AREA G"", ""GEODUCK AREA N"" or ""GEODUCK AREA W"".  See the ""Commercial Licence Areas"" Reference Data report for other Licence Area examples and definitions."
+LICENCE TYPE,"Licence Type.  Licence types can be either ""PARTY-BASED"" (meaning that the Licence is held by a party) or ""VESSEL-BASED"" (meaning that the Licence is held by a Vessel)."
+LICENCE HOLDER TYPE,"Licence Holder Type.  For ""VESSEL-BASED"" Licences, this value is always ""VESSEL"".  For ""PARTY-BASED"" Licences, these values reflect the type of party that holds the Licence.  See values listed in ""Licence Holder Types"" tab."
+LICENCE HOLDER FIRST NAME,"For ""PARTY-BASED"" Licence Types with Licence Holders which are individuals, this is the first name of the Individual who holds the Licence.  Otherwise blank."
+LICENCE HOLDER MIDDDLE NAME,"For ""PARTY-BASED"" Licence Types with Licence Holders which are individuals, this is the middle name of the Individual who holds the Licence.  Otherwise blank."
+LICENCE HOLDER LAST NAME,"For ""PARTY-BASED"" Licence Types with Licence Holders which are individuals, this is the last name of the individual who holds the Licence.  For ""PARTY-BASED"" Licence Types with Licence Holders which are not individuals, this is the name of the band, group, company, organization, etc. which holds the Licence.  Otherwise blank."
+LICENCE HOLDER VRN,"For ""VESSEL-BASED"" Licence Types, this is the Vessel Registration Number of the Vessel that holds the Licence.  Otherwise blank."
+LICENCE HOLDER VESSEL,"For ""VESSEL-BASED"" Licence Types, this is the name of the vessel that holds the Licence.  Otherwise blank."
+LICENCE OPERATOR FIRST NAME,"For ""PARTY-BASED"" Licence Types with Licence Holders which are individuals, this is the first name of the Individual who operates the licence.  Otherwise blank.  Note that the Licence Operator may or may not be the same as the Licence Holder."
+LICENCE OPERATOR MIDDDLE NAME,"For ""PARTY-BASED"" Licence Types with Licence Holders which are individuals, this is the Middle name of the Individual who operates the Licence.  Otherwise blank.  Note that the Licence Operator may or may not be the same as the Licence Holder."
+LICENCE OPERATOR LAST NAME,"For ""PARTY-BASED"" Licence Types with Licence Holders which are individuals, this is the Last Name of the individual who operates the Licence.  For ""PARTY-BASED"" Licence Types with Licence Holders which are not individuals, this is the name of the band, group, company, organization, etc. which operates the Licence.  Otherwise blank.  Note that the Licence Operator may or may not be the same as the Licence Holder."
+LICENCE OPERATOR VRN,"For ""VESSEL-BASED"" Licence Types, this is the Vessel Registration Number of the Vessel that operates the Licence.  Otherwise blank.  Note that the Licence Operator Vessel may or may not be the same as the Licence Holder Vessel."
+LICENCE OPERATOR VESSEL,"For ""VESSEL-BASED"" Licence Types, this is the name of the Vessel that holds the Licence.  Otherwise blank.  Note that the Licence Operator Vessel may or may not be the same as the Licence Holder Vessel."
+VESSEL OWNER FIRST NAME,"For ""VESSEL-BASED"" Licence Types, this is the first name of the individual listed as the primary contact for the Owner(s) of the Vessel that holds the Licence.  Otherwise blank. "
+VESSEL OWNER MIDDDLE NAME,"For ""VESSEL-BASED"" Licence Types, this is the middle name of the individual listed as the primary contact for the Owner(s) of the Vessel that holds the Licence.  Otherwise blank. "
+VESSEL OWNER LAST NAME,"For ""VESSEL-BASED"" Licence Types, this is the Last name of the individual listed as the primary contact for the Owner(s) of the Vessel that holds the Licence.  Otherwise blank. "
+VESSEL DOT ID,"For ""VESSEL-BASED"" Licence Types, this is the Department of Transportation Identification for of the Vessel that holds the Licence.  Otherwise blank. "
+FOREIGN VESSEL,"For ""VESSEL-BASED"" Licence Types, this is the answer to the question ""Is this a Foreign registered vessel?""  (NO = Registered in Canada, YES = Not Registered in Canada).  Otherwise blank."
+VESS_LATEST_LIC_ISSUE_DT,"For ""VESSEL-BASED"" Licence Types, this is the date of the last Licence Issued to the Vessel holding this Licence.  Otherwise blank.  Note that this may be the same Licence referenced in this record or another Licence issued to this Vessel at a later date.  As such, the VESS_LATEST_LIC_ISSUE_DT will always be >= ISSUE_DATE of the Licence referenced in this record."
+VESSEL LENGTH (MR),"For ""VESSEL-BASED"" Licence Types, this is the length (in meters) of the Vessel holding the Licence.  Otherwise blank."
+,
+,
+LICENCE HOLDER TYPES,
+ABORIGINAL BAND,
+ABORIGINAL IND.,
+AQUACULTURIST,
+AQUARIUM,
+BIOLOGICAL CONSULTANT,
+COMMERCIAL FISHERS ASSOCIATION,
+COMMERCIAL FISHING COMPANY,
+COMMUNITY GROUP,
+COMPANY,
+DFO RESERVED,
+EDUCATIONAL FACILITY,
+GOVERNMENT AGENCY,
+INDIVIDUAL,
+INDUSTRY ASSOCIATION,
+NON-GOVERNMENTAL ORGANIZATION,
+PACIFIC SALMON COMMISSION,
+VESSEL,
+,
+PREFIX,Prefix Description
+A,Salmon
+AC,Salmon by Gill Net/Troll Combination
+AG,Salmon by Gill Net
+AGC,Salmon Gill Net - Area C
+AGD,Salmon Gill Net - Area D
+AGE,Salmon Gill Net - Area E
+AR,Salmon by Troll Pre-1996
+AS,Salmon by Seine
+ASA,Salmon Seine - Area A
+ASB,Salmon Seine - Area B
+AT,Salmon by Troll
+ATBR,Salmon Transboundary
+ATF,Salmon Troll - Area F
+ATG,Salmon Troll - Area G
+ATH,Salmon Troll - Area H
+AYR,Salmon Yukon River
+BA,Salmon
+BAC,Salmon by Gill Net/Troll Combination
+BAG,Salmon by Gill Net
+BAR,Salmon Troll - Aboriginal 
+BAT,Salmon by Troll
+C,Schedule II Species by Hook and Line
+C0,Schedule II Species
+CA,Schedule II by Hook and Line - Special Issue
+CS,Contaminated Shellfish
+CSO,Contaminated Shellfish
+CSS,Contaminated Shellfish
+CT,Schedule II Species - Tuna
+D,Packing
+E,Abalone
+EEZ,Foreign Fishing Vessel
+FA,Salmon - Aboriginal
+FAC,Salmon by Gill Net/Troll Combination - Aboriginal
+FAG,Salmon by Gill Net - Aboriginal
+FAGC,Salmon Gill Net - Aboriginal - Area C
+FAGD,Salmon Gill Net - Aboriginal - Area D
+FAGE,Salmon Gill Net - Aboriginal - Area E
+FAR,Salmon by Troll - Aboriginal Pre-1996
+FAS,Salmon by Seine - Aboriginal
+FASA,Salmon Seine - Aboriginal - Area A
+FASB,Salmon Seine - Aboriginal - Area A
+FAT,Salmon by Troll - Aboriginal
+FATBR,Salmon Transboundary - Aboriginal
+FATF,Salmon Troll - Aboriginal - Area F
+FATG,Salmon Troll - Aboriginal - Area G
+FATH,Salmon Troll - Aboriginal - Area H
+FC,Schedule II Species by Hook and Line - Aboriginal
+FC0,Schedule II Species
+FCA,Schedule II by Hook and Line - Special Issue - Aboriginal
+FG,Geoduck and Horse Clam by Dive - Aboriginal
+FH,Herring Roe by Gill Net - Aboriginal
+FHS,Herring Roe by Seine - Aboriginal
+FJ,Herring Spawn on Kelpby Purse Seine - Aboriginal
+FK,Sablefish by Longline or Trap - Aboriginal
+FL,Halibut by Hook and Line - Aboriginal
+FP,Shrimp by Trawl - Aboriginal - Processing
+FR,Crab by Trap - Aboriginal
+FRA,Crab - Area A - Aboriginal
+FRB,Crab - Area B - Aboriginal
+FRC,Fish Harvester Registration Card (FRC)
+FRE,Crab - Area E - Aboriginal
+FS,Shrimp by Trawl - Aboriginal
+FT,Groundfish Trawl - Aboriginal
+FW,Prawn and Shrimp by Trap - Aboriginal
+FZC,Red Sea Urchin by Dive - Aboriginal
+FZCN,Red Sea Urchin - Area North - Aboriginal
+FZCS,Red Sea Urchin - Area South - Aboriginal
+FZF,Euphausiid by Pelagic Trawl - Aboriginal
+FZN,Rockfish by Hook and Line - Aboriginal
+FZNI,Rockfish by Hook and Line - Area Inside - Aboriginal
+FZNO,Rockfish by Hook and Line - Area Outside - Aboriginal
+FZNOA,Rockfish by Hook and Line - Area Outside - Option A - Aboriginal
+FZNOB,Rockfish by Hook and Line - Area Outside - Option B - Aboriginal
+FZNOC,Rockfish by Hook and Line - Area Outside - Option C - Aboriginal
+FZS,Pacific Sardine - Aboriginal
+FZWO,"Oysters, Pacific - Aboriginal"
+G,Geoduck and Horse Clam by Dive
+GG,Geoduck and Horse Clam - Gulf Islands
+GN,Geoduck and Horse Clam - North Coast
+GW,Geoduck and Horse Clam - West Coast Vancouver Island
+H,Herring Roe
+HG,Herring Roe by Gill Net
+HS,Herring Roe by Seine
+I,Import
+J,Herring Spawn on Kelp by Purse Seine
+K,Sablefish by Longline or Trap
+L,Halibut by Hook and Line
+NA,Salmon by Gill Net - NorthernNativeFishingCo
+NAC,Salmon by Gill Net/Troll Combination - Northern Native Fishing Co
+NAG,Salmon by Gill Net - NorthernNativeFishingCo
+NAGC,Salmon Gill Net - Northern Native Fishing Co - Area C
+NAGD,Salmon Gill Net - Northern Native Fishing Co - Area D
+NAGE,Salmon Gill Net - Northern Native Fishing Co - Area E
+NAR,Salmon by Troll - Northern Native Fishing Co Pre-1996
+P,Processing
+PA,Processing - Salmon
+PD,Processing - Dogfish
+PG,Processing - Geoduck
+PK,Processing - Skate
+PR,Processing - Groundfish
+PS,Processing - Sea Cucumber
+R,Crab by Trap
+RA,Crab by Trap - Area A
+RB,Crab by Trap - Area B
+RE,Crab by Trap - Area E
+RG,Crab by Trap - Area G
+RH,Crab by Trap - Area H
+RI,Crab by Trap - Area I
+RJ,Crab by Trap - Area J
+S,Shrimp by Trawl
+SEC68,"Section 68 - High Seas, in international waters"
+T,Groundfish Trawl
+TA,Groundfish Trawl - Option A
+TB,Groundfish Trawl - Option B
+TFRC,Fish Harvester Registration Card (FRC) - Temporary
+USA68,Section 68 - Albacore Tuna in USA waters
+W,Prawn and Shrimp by Trap
+YH,Export - Herring
+YS,Export - Salmon
+Z,Herring
+Z1,Clam
+Z2,Clam by Hand Picking or Hand Digging
+Z2A,Clam - Area A
+Z2ACL,Clam by Hand Picking or Hand Digging - Aboriginal
+Z2B,Clam - Area B
+Z2C,Clam - Area C
+Z2D,Clam - Area D
+Z2E,Clam - Area E
+Z2F,Clam - Area F
+Z2G,Clam - Area G
+Z3,Winkles
+Z4,Top Snail
+Z5,Limpet
+Z6,Goose neck Barnacle
+Z7,Octopus
+Z8,Smelt by Gill Net or Setnet
+Z9,Eulachon
+ZA,Green Sea Urchin by Dive
+ZB,Weathervane Scallop
+ZC,Red Sea Urchin by Dive
+ZCN,Red Sea Urchin - North Area
+ZCS,Red Sea Urchin - South Area
+ZD,Sea CucumberS by Dive
+ZDC,Sea Cucumber by Dive - Area C
+ZDG,Sea Cucumber by Dive - Area G
+ZDP,Sea Cucumber by Dive - Area P
+ZDW,Sea Cucumber by Dive - Area W
+ZE,Opal Squid by Hook and Line or Seine
+ZF,Euphausiid by Pelagic Trawl
+ZG,Octopus by Dive
+ZH,Prawn by Trap
+ZI,Pink and Spiny Scallops by Dive
+ZJ,Octopus (Dive and Trap)
+ZK,Anchovy by Seine
+ZL,Surf & Pile Perch by Net
+ZM,Herring Bait - Lottery
+ZN,Rockfish by Hook and Line
+ZNI,Rockfish  by Hook and Line - Inside Area
+ZNO,Rockfish by Hook and Line - Outside Area
+ZNOA,Rockfish by Hook and Line - Outside Area - Option A
+ZNOB,Rockfish by Hook and Line - Outside Area - Option B
+ZNOC,Rockfish by Hook and Line - Outside Area - Option C
+ZNOD,Rockfish by Hook and Line - Outside Area - Option D
+ZO,Six-gill Shark
+ZP,Octopus by Trap
+ZR,Pink and Spiny Scallops by Trawl
+ZS,Sardine by Seine
+ZSF,Pacific Sardine - Aboriginal
+ZU,Eulachon by Gill Net
+ZWO,"Oysters, Pacific"
+ZX,Herring Bait
+ZY1,Herring Bait - Sport
+ZY2,Herring Bait - Commercial
+ZY3,Herring Bait - Domestic Food
+ZY4,Herring Bait - Zoo/Aquarium
+ZY5,Herring Bait - Research
+ZY6,Herring Bait - Charity
+ZZ,Transporting
+ZZA,Atlantic Salmon
+>>>>>>> 6fa3d85ed59fb06bfe2a9c557e285f08af9ade77

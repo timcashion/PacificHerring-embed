@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Category,Roe expenses ($000s),Food and Bait expenses ($000s),Total expenses ($000s),$000 Wages,FTEs,Jobs
 Fishing,10000,1575,11575,3636,91,790
 EI/WCB on Fish Purchases,240,63,303,303,-,-
@@ -7,4 +8,15 @@ Processing,19040,2520,21560,8856,221,885
 Marketing & Sales,960,157,1117,670,8,40
 Total,32000,5355,37355,14605,356,1895
 Values for 2015. 16000 tonnes of Roe herring and 6300 tons of Food and bait herring,,,,,,
+=======
+﻿Category,Roe expenses ($000s),Food and Bait expenses ($000s),Total expenses ($000s),$000 Wages,FTEs,Jobs
+Fishing,10000,1575,11575,3636,91,790
+EI/WCB on Fish Purchases,240,63,303,303,-,-
+Unloading,960,378,1338,937,31,155
+Trucking,560,252,812,203,5,25
+Processing,19040,2520,21560,8856,221,885
+Marketing & Sales,960,157,1117,670,8,40
+Total,32000,5355,37355,14605,356,1895
+Values for 2015. 16000 tonnes of Roe herring and 6300 tons of Food and bait herring,,,,,,
+>>>>>>> 6fa3d85ed59fb06bfe2a9c557e285f08af9ade77
 Source: Exhibit 3. GSGislason & Associates Ltd. Importance of Herring to BC Seafood Industry,,,,,,

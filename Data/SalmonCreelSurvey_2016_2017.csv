@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Area,Year,Species,Status,Number
 Juan de Fuca,2016,NA,Boat effort (trips),40596
 North Island,2016,NA,Boat effort (trips),15328
@@ -87,3 +88,94 @@ Juan de Fuca,2017,Sockeye,Released,661
 North Island,2017,Sockeye,Released,241
 Strait of Georgia,2017,Sockeye,Released,1558
 WCVI ,2017,Sockeye,Released,2527
+=======
+Area,Year,Species,Status,Number
+Juan de Fuca,2016,NA,Boat effort (trips),40596
+North Island,2016,NA,Boat effort (trips),15328
+Strait of Georgia,2016,NA,Boat effort (trips),104222
+WCVI ,2016,NA,Boat effort (trips),70921
+Juan de Fuca,2016,Chinook,Retained,15687
+North Island,2016,Chinook,Retained,8734
+Strait of Georgia,2016,Chinook,Retained,44654
+WCVI ,2016,Chinook,Retained,72476
+Juan de Fuca,2016,Chinook,Released,17512
+North Island,2016,Chinook,Released,7298
+Strait of Georgia,2016,Chinook,Released,58333
+WCVI ,2016,Chinook,Released,53427
+Juan de Fuca,2016,Coho,Retained,6672
+North Island,2016,Coho,Retained,4901
+Strait of Georgia,2016,Coho,Retained,12427
+WCVI ,2016,Coho,Retained,22105
+Juan de Fuca,2016,Coho,Released,14446
+North Island,2016,Coho,Released,4729
+Strait of Georgia,2016,Coho,Released,38790
+WCVI ,2016,Coho,Released,16564
+Juan de Fuca,2016,Chum,Retained,11
+North Island,2016,Chum,Retained,552
+Strait of Georgia,2016,Chum,Retained,1763
+WCVI ,2016,Chum,Retained,198
+Juan de Fuca,2016,Chum,Released,11
+North Island,2016,Chum,Released,52
+Strait of Georgia,2016,Chum,Released,37
+WCVI ,2016,Chum,Released,10
+Juan de Fuca,2016,Pink,Retained,131
+North Island,2016,Pink,Retained,2598
+Strait of Georgia,2016,Pink,Retained,2285
+WCVI ,2016,Pink,Retained,226
+Juan de Fuca,2016,Pink,Released,0
+North Island,2016,Pink,Released,2215
+Strait of Georgia,2016,Pink,Released,1996
+WCVI ,2016,Pink,Released,377
+Juan de Fuca,2016,Sockeye,Retained,7
+North Island,2016,Sockeye,Retained,65
+Strait of Georgia,2016,Sockeye,Retained,0
+WCVI ,2016,Sockeye,Retained,52997
+Juan de Fuca,2016,Sockeye,Released,112
+North Island,2016,Sockeye,Released,50
+Strait of Georgia,2016,Sockeye,Released,460
+WCVI ,2016,Sockeye,Released,427
+Juan de Fuca,2017,NA,Boat effort (trips),36808
+North Island,2017,NA,Boat effort (trips),15494
+Strait of Georgia,2017,NA,Boat effort (trips),132605
+WCVI ,2017,NA,Boat effort (trips),73844
+Juan de Fuca,2017,Chinook,Retained,18255
+North Island,2017,Chinook,Retained,13879
+Strait of Georgia,2017,Chinook,Retained,59415
+WCVI ,2017,Chinook,Retained,105441
+Juan de Fuca,2017,Chinook,Released,23003
+North Island,2017,Chinook,Released,15327
+Strait of Georgia,2017,Chinook,Released,78339
+WCVI ,2017,Chinook,Released,56610
+Juan de Fuca,2017,Coho,Retained,7439
+North Island,2017,Coho,Retained,5512
+Strait of Georgia,2017,Coho,Retained,9882
+WCVI ,2017,Coho,Retained,27981
+Juan de Fuca,2017,Coho,Released,13959
+North Island,2017,Coho,Released,12125
+Strait of Georgia,2017,Coho,Released,38607
+WCVI ,2017,Coho,Released,29338
+Juan de Fuca,2017,Chum,Retained,198
+North Island,2017,Chum,Retained,109
+Strait of Georgia,2017,Chum,Retained,2328
+WCVI ,2017,Chum,Retained,66
+Juan de Fuca,2017,Chum,Released,6
+North Island,2017,Chum,Released,27
+Strait of Georgia,2017,Chum,Released,70
+WCVI ,2017,Chum,Released,28
+Juan de Fuca,2017,Pink,Retained,8888
+North Island,2017,Pink,Retained,3638
+Strait of Georgia,2017,Pink,Retained,16410
+WCVI ,2017,Pink,Retained,2675
+Juan de Fuca,2017,Pink,Released,3274
+North Island,2017,Pink,Released,2246
+Strait of Georgia,2017,Pink,Released,6604
+WCVI ,2017,Pink,Released,1306
+Juan de Fuca,2017,Sockeye,Retained,98
+North Island,2017,Sockeye,Retained,72
+Strait of Georgia,2017,Sockeye,Retained,76
+WCVI ,2017,Sockeye,Retained,11464
+Juan de Fuca,2017,Sockeye,Released,661
+North Island,2017,Sockeye,Released,241
+Strait of Georgia,2017,Sockeye,Released,1558
+WCVI ,2017,Sockeye,Released,2527
+>>>>>>> 6fa3d85ed59fb06bfe2a9c557e285f08af9ade77

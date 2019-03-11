@@ -1,5 +1,5 @@
 ---
-title: "The Economic Value of Pacific Herring in the Strait of Georgia"
+title: ""
 author: "Prepared by Tim Cashion for Pacific Wild"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
@@ -360,12 +360,6 @@ Tim Cashion is a PhD student studying fisheries economics at the University of B
 
 
 Pacific Wild is a non-profit conservation organization based in British Columbia. We are committed to defending wildlife and their habitat on Canada's Pacific Coast by developing and implementing conservation solutions in collaboration with First Nations communities, scientists, other organizations and individuals. Recently, we worked alongside the Heiltsuk First Nation to document the crucial importance of Pacific herring to the ecological and cultural integrity of British Columbia's Central Coast.
-
-
-```{r PW-logo, fig.align = 'center'}
-knitr::include_graphics("./PW Logo files/PNG (raster)/large-png-pacific-wild-logo/pw-logo-dark-transparent-bg@2x.png")
-
-```
 
 
 ```{r}
