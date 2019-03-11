@@ -1,0 +1,100 @@
+Year,Fishery,key,Value
+1985,Food and bait,ExVesselPrice,1.5548140424052832
+1985,Roe herring,ExVesselPrice,5.0707992021534105
+1985,Spawn on kelp,ExVesselPrice,0
+1986,Food and bait,ExVesselPrice,1.5235879332477535
+1986,Roe herring,ExVesselPrice,5.595787527328547
+1986,Spawn on kelp,ExVesselPrice,0
+1987,Food and bait,ExVesselPrice,1.2558113419427288
+1987,Roe herring,ExVesselPrice,5.331408938501235
+1987,Spawn on kelp,ExVesselPrice,0
+1988,Food and bait,ExVesselPrice,1.557281339502093
+1988,Roe herring,ExVesselPrice,5.624606255815083
+1988,Spawn on kelp,ExVesselPrice,0
+1989,Food and bait,ExVesselPrice,1.52039336535847
+1989,Roe herring,ExVesselPrice,3.1735672497598744
+1989,Spawn on kelp,ExVesselPrice,0
+1990,Food and bait,ExVesselPrice,2.6136387544708604
+1990,Roe herring,ExVesselPrice,2.884715263350849
+1990,Spawn on kelp,ExVesselPrice,60.92184601113172
+1991,Food and bait,ExVesselPrice,0.8659740925997179
+1991,Roe herring,ExVesselPrice,1.9317252795513666
+1991,Spawn on kelp,ExVesselPrice,46.660419790104946
+1992,Food and bait,ExVesselPrice,1.3468085106382979
+1992,Roe herring,ExVesselPrice,2.2714667912349245
+1992,Spawn on kelp,ExVesselPrice,47.20586734693877
+1993,Food and bait,ExVesselPrice,1.1725183127052285
+1993,Roe herring,ExVesselPrice,2.6061604088375554
+1993,Spawn on kelp,ExVesselPrice,64.5269989615784
+1994,Food and bait,ExVesselPrice,0.9634214398051848
+1994,Roe herring,ExVesselPrice,2.6893646229315227
+1994,Spawn on kelp,ExVesselPrice,97.15734673727673
+1995,Food and bait,ExVesselPrice,1.3873972602739726
+1995,Roe herring,ExVesselPrice,3.889076541356519
+1995,Spawn on kelp,ExVesselPrice,124.39884088514225
+1996,Food and bait,ExVesselPrice,0.7302933287185256
+1996,Roe herring,ExVesselPrice,5.035763730083191
+1996,Spawn on kelp,ExVesselPrice,90.4082275429857
+1997,Food and bait,ExVesselPrice,0.9336283185840707
+1997,Roe herring,ExVesselPrice,2.1994128658951664
+1997,Spawn on kelp,ExVesselPrice,60.4581264839197
+1998,Food and bait,ExVesselPrice,3.9288061336254105
+1998,Roe herring,ExVesselPrice,1.0958229158690578
+1998,Spawn on kelp,ExVesselPrice,30.85268346111719
+1999,Food and bait,ExVesselPrice,2.7255113024757796
+1999,Roe herring,ExVesselPrice,2.07755955886833
+1999,Spawn on kelp,ExVesselPrice,26.573735199138852
+2000,Food and bait,ExVesselPrice,4.644654088050314
+2000,Roe herring,ExVesselPrice,1.902746947835738
+2000,Spawn on kelp,ExVesselPrice,36.319099635882154
+2001,Food and bait,ExVesselPrice,1.2944785276073618
+2001,Roe herring,ExVesselPrice,1.9227609928895963
+2001,Spawn on kelp,ExVesselPrice,33.98006134969325
+2002,Food and bait,ExVesselPrice,1.6880000000000004
+2002,Roe herring,ExVesselPrice,1.7800150375939847
+2002,Spawn on kelp,ExVesselPrice,33.54899999999999
+2003,Food and bait,ExVesselPrice,0.4736605806644717
+2003,Roe herring,ExVesselPrice,1.5094641699092088
+2003,Spawn on kelp,ExVesselPrice,28.632782101167315
+2004,Food and bait,ExVesselPrice,0.46506502093894636
+2004,Roe herring,ExVesselPrice,1.4174712865088726
+2004,Spawn on kelp,ExVesselPrice,16.928366762177646
+2005,Food and bait,ExVesselPrice,0.7606141522029374
+2005,Roe herring,ExVesselPrice,1.1547162539743712
+2005,Spawn on kelp,ExVesselPrice,12.213445884835695
+2006,Food and bait,ExVesselPrice,0.644668499847235
+2006,Roe herring,ExVesselPrice,0.7024863025241169
+2006,Spawn on kelp,ExVesselPrice,16.095916738121286
+2007,Food and bait,ExVesselPrice,0.9289849164288626
+2007,Roe herring,ExVesselPrice,1.3841383728379246
+2007,Spawn on kelp,ExVesselPrice,35.14413837283793
+2008,Food and bait,ExVesselPrice,0.9708588957055215
+2008,Roe herring,ExVesselPrice,1.236359083510705
+2008,Spawn on kelp,ExVesselPrice,28.53136346563165
+2009,Food and bait,ExVesselPrice,0.9222027972027971
+2009,Roe herring,ExVesselPrice,1.4787044851700024
+2009,Spawn on kelp,ExVesselPrice,13.620225927918233
+2010,Food and bait,ExVesselPrice,0.6791845493562232
+2010,Roe herring,ExVesselPrice,1.238598920116295
+2010,Spawn on kelp,ExVesselPrice,7.903238392508779
+2011,Food and bait,ExVesselPrice,0.33479118777843325
+2011,Roe herring,ExVesselPrice,0.6399272120706649
+2011,Spawn on kelp,ExVesselPrice,10.558798999165969
+2012,Food and bait,ExVesselPrice,0.30735041458131024
+2012,Roe herring,ExVesselPrice,1.1975119909804897
+2012,Spawn on kelp,ExVesselPrice,19.3191689165395
+2013,Food and bait,ExVesselPrice,0.33396797724457494
+2013,Roe herring,ExVesselPrice,0.9499418334108888
+2013,Spawn on kelp,ExVesselPrice,30.928338762214985
+2014,Food and bait,ExVesselPrice,0.36110762490444626
+2014,Roe herring,ExVesselPrice,0.7145116204775976
+2014,Spawn on kelp,ExVesselPrice,17.413412134281074
+2015,Food and bait,ExVesselPrice,0.4177215189873417
+2015,Roe herring,ExVesselPrice,0.6482758620689656
+2015,Spawn on kelp,ExVesselPrice,23.333333333333332
+2016,Food and bait,ExVesselPrice,0.43452453058752266
+2016,Roe herring,ExVesselPrice,0.8049102557832444
+2016,Spawn on kelp,ExVesselPrice,26.232905097389143
+2017,Food and bait,ExVesselPrice,0.4388814186066055
+2017,Roe herring,ExVesselPrice,0.8423628653915555
+2017,Spawn on kelp,ExVesselPrice,26.29409509202454
