@@ -1,0 +1,343 @@
+Group,Species,Measure,Year,Value
+SALMON (Wild),Chinook ,HARVEST (000 Tonnes) ,2014,2.4
+SALMON (Wild),Chinook ,HARVEST (000 Tonnes) ,2015,1.5
+SALMON (Wild),Chinook ,HARVEST (000 Tonnes) ,2016,1.7
+SALMON (Wild),Chinook ,LANDED VALUE ($ Millions) ,2014,18.7
+SALMON (Wild),Chinook ,LANDED VALUE ($ Millions) ,2015,17
+SALMON (Wild),Chinook ,LANDED VALUE ($ Millions) ,2016,21.5
+SALMON (Wild),Chinook ,WHOLESALE VALUE ($ Millions),2014,25
+SALMON (Wild),Chinook ,WHOLESALE VALUE ($ Millions),2015,25
+SALMON (Wild),Chinook ,WHOLESALE VALUE ($ Millions),2016,26.6
+SALMON (Wild),Chum ,HARVEST (000 Tonnes) ,2014,4.5
+SALMON (Wild),Chum ,HARVEST (000 Tonnes) ,2015,11.4
+SALMON (Wild),Chum ,HARVEST (000 Tonnes) ,2016,15.9
+SALMON (Wild),Chum ,LANDED VALUE ($ Millions) ,2014,8.9
+SALMON (Wild),Chum ,LANDED VALUE ($ Millions) ,2015,18.9
+SALMON (Wild),Chum ,LANDED VALUE ($ Millions) ,2016,30.2
+SALMON (Wild),Chum ,WHOLESALE VALUE ($ Millions),2014,23.3
+SALMON (Wild),Chum ,WHOLESALE VALUE ($ Millions),2015,30.3
+SALMON (Wild),Chum ,WHOLESALE VALUE ($ Millions),2016,53.2
+SALMON (Wild),Coho ,HARVEST (000 Tonnes) ,2014,0.9
+SALMON (Wild),Coho ,HARVEST (000 Tonnes) ,2015,0.9
+SALMON (Wild),Coho ,HARVEST (000 Tonnes) ,2016,1
+SALMON (Wild),Coho ,LANDED VALUE ($ Millions) ,2014,3.3
+SALMON (Wild),Coho ,LANDED VALUE ($ Millions) ,2015,4.3
+SALMON (Wild),Coho ,LANDED VALUE ($ Millions) ,2016,5.1
+SALMON (Wild),Coho ,WHOLESALE VALUE ($ Millions),2014,23.1
+SALMON (Wild),Coho ,WHOLESALE VALUE ($ Millions),2015,22.8
+SALMON (Wild),Coho ,WHOLESALE VALUE ($ Millions),2016,28
+SALMON (Wild),Pink ,HARVEST (000 Tonnes) ,2014,6.7
+SALMON (Wild),Pink ,HARVEST (000 Tonnes) ,2015,2.6
+SALMON (Wild),Pink ,HARVEST (000 Tonnes) ,2016,3.5
+SALMON (Wild),Pink ,LANDED VALUE ($ Millions) ,2014,4.6
+SALMON (Wild),Pink ,LANDED VALUE ($ Millions) ,2015,1.6
+SALMON (Wild),Pink ,LANDED VALUE ($ Millions) ,2016,2.8
+SALMON (Wild),Pink ,WHOLESALE VALUE ($ Millions),2014,24.8
+SALMON (Wild),Pink ,WHOLESALE VALUE ($ Millions),2015,11.9
+SALMON (Wild),Pink ,WHOLESALE VALUE ($ Millions),2016,12.2
+SALMON (Wild),Sockeye ,HARVEST (000 Tonnes) ,2014,28.1
+SALMON (Wild),Sockeye ,HARVEST (000 Tonnes) ,2015,4.4
+SALMON (Wild),Sockeye ,HARVEST (000 Tonnes) ,2016,2.6
+SALMON (Wild),Sockeye ,LANDED VALUE ($ Millions) ,2014,102.4
+SALMON (Wild),Sockeye ,LANDED VALUE ($ Millions) ,2015,20.1
+SALMON (Wild),Sockeye ,LANDED VALUE ($ Millions) ,2016,18.3
+SALMON (Wild),Sockeye ,WHOLESALE VALUE ($ Millions),2014,209.2
+SALMON (Wild),Sockeye ,WHOLESALE VALUE ($ Millions),2015,91.3
+SALMON (Wild),Sockeye ,WHOLESALE VALUE ($ Millions),2016,80.1
+SALMON (Farmed),Atlantic ,HARVEST (000 Tonnes) ,2014,64.1
+SALMON (Farmed),Atlantic ,HARVEST (000 Tonnes) ,2015,89.8
+SALMON (Farmed),Atlantic ,HARVEST (000 Tonnes) ,2016,90.5
+SALMON (Farmed),Atlantic ,LANDED VALUE ($ Millions) ,2014,364.5
+SALMON (Farmed),Atlantic ,LANDED VALUE ($ Millions) ,2015,441.6
+SALMON (Farmed),Atlantic ,LANDED VALUE ($ Millions) ,2016,713.1
+SALMON (Farmed),Atlantic ,WHOLESALE VALUE ($ Millions),2014,409.3
+SALMON (Farmed),Atlantic ,WHOLESALE VALUE ($ Millions),2015,485.9
+SALMON (Farmed),Atlantic ,WHOLESALE VALUE ($ Millions),2016,757.5
+SALMON (Farmed),Pacific,HARVEST (000 Tonnes) ,2014,3.6
+SALMON (Farmed),Pacific,HARVEST (000 Tonnes) ,2015,3.2
+SALMON (Farmed),Pacific,HARVEST (000 Tonnes) ,2016,2.3
+SALMON (Farmed),Pacific,LANDED VALUE ($ Millions) ,2014,34
+SALMON (Farmed),Pacific,LANDED VALUE ($ Millions) ,2015,31.9
+SALMON (Farmed),Pacific,LANDED VALUE ($ Millions) ,2016,30.2
+SALMON (Farmed),Pacific,WHOLESALE VALUE ($ Millions),2014,46.3
+SALMON (Farmed),Pacific,WHOLESALE VALUE ($ Millions),2015,45.5
+SALMON (Farmed),Pacific,WHOLESALE VALUE ($ Millions),2016,39.1
+HERRING,"Food, Bait & Other ",HARVEST (000 Tonnes) ,2014,5.6
+HERRING,"Food, Bait & Other ",HARVEST (000 Tonnes) ,2015,7.9
+HERRING,"Food, Bait & Other ",HARVEST (000 Tonnes) ,2016,7.8
+HERRING,"Food, Bait & Other ",LANDED VALUE ($ Millions) ,2014,2
+HERRING,"Food, Bait & Other ",LANDED VALUE ($ Millions) ,2015,3.3
+HERRING,"Food, Bait & Other ",LANDED VALUE ($ Millions) ,2016,3.4
+HERRING,"Food, Bait & Other ",WHOLESALE VALUE ($ Millions),2014,7.4
+HERRING,"Food, Bait & Other ",WHOLESALE VALUE ($ Millions),2015,10.5
+HERRING,"Food, Bait & Other ",WHOLESALE VALUE ($ Millions),2016,10.5
+HERRING,Roe Herring ,HARVEST (000 Tonnes) ,2014,15
+HERRING,Roe Herring ,HARVEST (000 Tonnes) ,2015,14.5
+HERRING,Roe Herring ,HARVEST (000 Tonnes) ,2016,16.1
+HERRING,Roe Herring ,LANDED VALUE ($ Millions) ,2014,10.6
+HERRING,Roe Herring ,LANDED VALUE ($ Millions) ,2015,9.4
+HERRING,Roe Herring ,LANDED VALUE ($ Millions) ,2016,13
+HERRING,Roe Herring ,WHOLESALE VALUE ($ Millions),2014,31.9
+HERRING,Roe Herring ,WHOLESALE VALUE ($ Millions),2015,35.5
+HERRING,Roe Herring ,WHOLESALE VALUE ($ Millions),2016,38.9
+HERRING,Spawn on Kelp,HARVEST (000 Tonnes) ,2014,0.18
+HERRING,Spawn on Kelp,HARVEST (000 Tonnes) ,2015,0.13
+HERRING,Spawn on Kelp,HARVEST (000 Tonnes) ,2016,0.19
+HERRING,Spawn on Kelp,LANDED VALUE ($ Millions) ,2014,3.1
+HERRING,Spawn on Kelp,LANDED VALUE ($ Millions) ,2015,2.8
+HERRING,Spawn on Kelp,LANDED VALUE ($ Millions) ,2016,5
+HERRING,Spawn on Kelp,WHOLESALE VALUE ($ Millions),2014,3.9
+HERRING,Spawn on Kelp,WHOLESALE VALUE ($ Millions),2015,3.3
+HERRING,Spawn on Kelp,WHOLESALE VALUE ($ Millions),2016,5.7
+GROUNDFISH ,Arrowtooth Flounders ,HARVEST (000 Tonnes) ,2014,11.8
+GROUNDFISH ,Arrowtooth Flounders ,HARVEST (000 Tonnes) ,2015,10.4
+GROUNDFISH ,Arrowtooth Flounders ,HARVEST (000 Tonnes) ,2016,11.3
+GROUNDFISH ,Arrowtooth Flounders ,LANDED VALUE ($ Millions) ,2014,2.6
+GROUNDFISH ,Arrowtooth Flounders ,LANDED VALUE ($ Millions) ,2015,2.3
+GROUNDFISH ,Arrowtooth Flounders ,LANDED VALUE ($ Millions) ,2016,3.2
+GROUNDFISH ,Arrowtooth Flounders ,WHOLESALE VALUE ($ Millions),2014,7.6
+GROUNDFISH ,Arrowtooth Flounders ,WHOLESALE VALUE ($ Millions),2015,8.2
+GROUNDFISH ,Arrowtooth Flounders ,WHOLESALE VALUE ($ Millions),2016,9.8
+GROUNDFISH ,Dogfish ,HARVEST (000 Tonnes) ,2014,0.2
+GROUNDFISH ,Dogfish ,HARVEST (000 Tonnes) ,2015,0.4
+GROUNDFISH ,Dogfish ,HARVEST (000 Tonnes) ,2016,0.2
+GROUNDFISH ,Dogfish ,LANDED VALUE ($ Millions) ,2014,0.1
+GROUNDFISH ,Dogfish ,LANDED VALUE ($ Millions) ,2015,0.2
+GROUNDFISH ,Dogfish ,LANDED VALUE ($ Millions) ,2016,0.1
+GROUNDFISH ,Dogfish ,WHOLESALE VALUE ($ Millions),2014,0.3
+GROUNDFISH ,Dogfish ,WHOLESALE VALUE ($ Millions),2015,0.6
+GROUNDFISH ,Dogfish ,WHOLESALE VALUE ($ Millions),2016,0.4
+GROUNDFISH ,Hake ,HARVEST (000 Tonnes) ,2014,37.4
+GROUNDFISH ,Hake ,HARVEST (000 Tonnes) ,2015,41.6
+GROUNDFISH ,Hake ,HARVEST (000 Tonnes) ,2016,78.3
+GROUNDFISH ,Hake ,LANDED VALUE ($ Millions) ,2014,9
+GROUNDFISH ,Hake ,LANDED VALUE ($ Millions) ,2015,8
+GROUNDFISH ,Hake ,LANDED VALUE ($ Millions) ,2016,18.3
+GROUNDFISH ,Hake ,WHOLESALE VALUE ($ Millions),2014,27.2
+GROUNDFISH ,Hake ,WHOLESALE VALUE ($ Millions),2015,34.9
+GROUNDFISH ,Hake ,WHOLESALE VALUE ($ Millions),2016,70
+GROUNDFISH ,Halibut ,HARVEST (000 Tonnes) ,2014,3.6
+GROUNDFISH ,Halibut ,HARVEST (000 Tonnes) ,2015,3.7
+GROUNDFISH ,Halibut ,HARVEST (000 Tonnes) ,2016,3.7
+GROUNDFISH ,Halibut ,LANDED VALUE ($ Millions) ,2014,46.9
+GROUNDFISH ,Halibut ,LANDED VALUE ($ Millions) ,2015,53.8
+GROUNDFISH ,Halibut ,LANDED VALUE ($ Millions) ,2016,58.3
+GROUNDFISH ,Halibut ,WHOLESALE VALUE ($ Millions),2014,105.5
+GROUNDFISH ,Halibut ,WHOLESALE VALUE ($ Millions),2015,98.1
+GROUNDFISH ,Halibut ,WHOLESALE VALUE ($ Millions),2016,93
+GROUNDFISH ,Lingcod ,HARVEST (000 Tonnes) ,2014,1.4
+GROUNDFISH ,Lingcod ,HARVEST (000 Tonnes) ,2015,1.7
+GROUNDFISH ,Lingcod ,HARVEST (000 Tonnes) ,2016,1.3
+GROUNDFISH ,Lingcod ,LANDED VALUE ($ Millions) ,2014,6.7
+GROUNDFISH ,Lingcod ,LANDED VALUE ($ Millions) ,2015,8.5
+GROUNDFISH ,Lingcod ,LANDED VALUE ($ Millions) ,2016,6.8
+GROUNDFISH ,Lingcod ,WHOLESALE VALUE ($ Millions),2014,12
+GROUNDFISH ,Lingcod ,WHOLESALE VALUE ($ Millions),2015,12.5
+GROUNDFISH ,Lingcod ,WHOLESALE VALUE ($ Millions),2016,11.5
+GROUNDFISH ,Pacific Cod ,HARVEST (000 Tonnes) ,2014,1.3
+GROUNDFISH ,Pacific Cod ,HARVEST (000 Tonnes) ,2015,1.5
+GROUNDFISH ,Pacific Cod ,HARVEST (000 Tonnes) ,2016,0.9
+GROUNDFISH ,Pacific Cod ,LANDED VALUE ($ Millions) ,2014,1.8
+GROUNDFISH ,Pacific Cod ,LANDED VALUE ($ Millions) ,2015,2
+GROUNDFISH ,Pacific Cod ,LANDED VALUE ($ Millions) ,2016,2
+GROUNDFISH ,Pacific Cod ,WHOLESALE VALUE ($ Millions),2014,8.3
+GROUNDFISH ,Pacific Cod ,WHOLESALE VALUE ($ Millions),2015,6.2
+GROUNDFISH ,Pacific Cod ,WHOLESALE VALUE ($ Millions),2016,4.7
+GROUNDFISH ,Pollock ,HARVEST (000 Tonnes) ,2014,7.6
+GROUNDFISH ,Pollock ,HARVEST (000 Tonnes) ,2015,4.5
+GROUNDFISH ,Pollock ,HARVEST (000 Tonnes) ,2016,2.2
+GROUNDFISH ,Pollock ,LANDED VALUE ($ Millions) ,2014,2.4
+GROUNDFISH ,Pollock ,LANDED VALUE ($ Millions) ,2015,1.9
+GROUNDFISH ,Pollock ,LANDED VALUE ($ Millions) ,2016,1.1
+GROUNDFISH ,Pollock ,WHOLESALE VALUE ($ Millions),2014,8.7
+GROUNDFISH ,Pollock ,WHOLESALE VALUE ($ Millions),2015,6.1
+GROUNDFISH ,Pollock ,WHOLESALE VALUE ($ Millions),2016,2.9
+GROUNDFISH ,Rockfish ,HARVEST (000 Tonnes) ,2014,16.2
+GROUNDFISH ,Rockfish ,HARVEST (000 Tonnes) ,2015,17.3
+GROUNDFISH ,Rockfish ,HARVEST (000 Tonnes) ,2016,16.7
+GROUNDFISH ,Rockfish ,LANDED VALUE ($ Millions) ,2014,24.3
+GROUNDFISH ,Rockfish ,LANDED VALUE ($ Millions) ,2015,26.7
+GROUNDFISH ,Rockfish ,LANDED VALUE ($ Millions) ,2016,27.6
+GROUNDFISH ,Rockfish ,WHOLESALE VALUE ($ Millions),2014,46.1
+GROUNDFISH ,Rockfish ,WHOLESALE VALUE ($ Millions),2015,51
+GROUNDFISH ,Rockfish ,WHOLESALE VALUE ($ Millions),2016,50
+GROUNDFISH ,Sablefish ,HARVEST (000 Tonnes) ,2014,1.8
+GROUNDFISH ,Sablefish ,HARVEST (000 Tonnes) ,2015,2.7
+GROUNDFISH ,Sablefish ,HARVEST (000 Tonnes) ,2016,1.9
+GROUNDFISH ,Sablefish ,LANDED VALUE ($ Millions) ,2014,16.6
+GROUNDFISH ,Sablefish ,LANDED VALUE ($ Millions) ,2015,30.8
+GROUNDFISH ,Sablefish ,LANDED VALUE ($ Millions) ,2016,27.6
+GROUNDFISH ,Sablefish ,WHOLESALE VALUE ($ Millions),2014,27.7
+GROUNDFISH ,Sablefish ,WHOLESALE VALUE ($ Millions),2015,32.6
+GROUNDFISH ,Sablefish ,WHOLESALE VALUE ($ Millions),2016,33.4
+GROUNDFISH ,Skates ,HARVEST (000 Tonnes) ,2014,0.9
+GROUNDFISH ,Skates ,HARVEST (000 Tonnes) ,2015,0.8
+GROUNDFISH ,Skates ,HARVEST (000 Tonnes) ,2016,0.5
+GROUNDFISH ,Skates ,LANDED VALUE ($ Millions) ,2014,0.9
+GROUNDFISH ,Skates ,LANDED VALUE ($ Millions) ,2015,0.8
+GROUNDFISH ,Skates ,LANDED VALUE ($ Millions) ,2016,0.6
+GROUNDFISH ,Skates ,WHOLESALE VALUE ($ Millions),2014,1.2
+GROUNDFISH ,Skates ,WHOLESALE VALUE ($ Millions),2015,1.4
+GROUNDFISH ,Skates ,WHOLESALE VALUE ($ Millions),2016,1
+GROUNDFISH ,Soles ,HARVEST (000 Tonnes) ,2014,3.7
+GROUNDFISH ,Soles ,HARVEST (000 Tonnes) ,2015,3.1
+GROUNDFISH ,Soles ,HARVEST (000 Tonnes) ,2016,3
+GROUNDFISH ,Soles ,LANDED VALUE ($ Millions) ,2014,4.4
+GROUNDFISH ,Soles ,LANDED VALUE ($ Millions) ,2015,3.8
+GROUNDFISH ,Soles ,LANDED VALUE ($ Millions) ,2016,3.8
+GROUNDFISH ,Soles ,WHOLESALE VALUE ($ Millions),2014,10.8
+GROUNDFISH ,Soles ,WHOLESALE VALUE ($ Millions),2015,9.5
+GROUNDFISH ,Soles ,WHOLESALE VALUE ($ Millions),2016,8.7
+GROUNDFISH ,Other,HARVEST (000 Tonnes) ,2014,0.1
+GROUNDFISH ,Other,HARVEST (000 Tonnes) ,2015,0.2
+GROUNDFISH ,Other,HARVEST (000 Tonnes) ,2016,0.5
+GROUNDFISH ,Other,LANDED VALUE ($ Millions) ,2014,1.1
+GROUNDFISH ,Other,LANDED VALUE ($ Millions) ,2015,1
+GROUNDFISH ,Other,LANDED VALUE ($ Millions) ,2016,2
+GROUNDFISH ,Other,WHOLESALE VALUE ($ Millions),2014,16.1
+GROUNDFISH ,Other,WHOLESALE VALUE ($ Millions),2015,12.1
+GROUNDFISH ,Other,WHOLESALE VALUE ($ Millions),2016,13.4
+Shellfish (Wild),Clams ,HARVEST (000 Tonnes) ,2014,0.4
+Shellfish (Wild),Clams ,HARVEST (000 Tonnes) ,2015,0.4
+Shellfish (Wild),Clams ,HARVEST (000 Tonnes) ,2016,0.4
+Shellfish (Wild),Clams ,LANDED VALUE ($ Millions) ,2014,1
+Shellfish (Wild),Clams ,LANDED VALUE ($ Millions) ,2015,1.3
+Shellfish (Wild),Clams ,LANDED VALUE ($ Millions) ,2016,1.4
+Shellfish (Wild),Clams ,WHOLESALE VALUE ($ Millions),2014,3.3
+Shellfish (Wild),Clams ,WHOLESALE VALUE ($ Millions),2015,3.6
+Shellfish (Wild),Clams ,WHOLESALE VALUE ($ Millions),2016,8
+Shellfish (Wild),Crabs ,HARVEST (000 Tonnes) ,2014,3.9
+Shellfish (Wild),Crabs ,HARVEST (000 Tonnes) ,2015,4.3
+Shellfish (Wild),Crabs ,HARVEST (000 Tonnes) ,2016,3.4
+Shellfish (Wild),Crabs ,LANDED VALUE ($ Millions) ,2014,46.7
+Shellfish (Wild),Crabs ,LANDED VALUE ($ Millions) ,2015,55.1
+Shellfish (Wild),Crabs ,LANDED VALUE ($ Millions) ,2016,44.1
+Shellfish (Wild),Crabs ,WHOLESALE VALUE ($ Millions),2014,68.8
+Shellfish (Wild),Crabs ,WHOLESALE VALUE ($ Millions),2015,68.2
+Shellfish (Wild),Crabs ,WHOLESALE VALUE ($ Millions),2016,80.5
+Shellfish (Wild),Geoducks ,HARVEST (000 Tonnes) ,2014,1.5
+Shellfish (Wild),Geoducks ,HARVEST (000 Tonnes) ,2015,1.4
+Shellfish (Wild),Geoducks ,HARVEST (000 Tonnes) ,2016,1.1
+Shellfish (Wild),Geoducks ,LANDED VALUE ($ Millions) ,2014,40.5
+Shellfish (Wild),Geoducks ,LANDED VALUE ($ Millions) ,2015,32.1
+Shellfish (Wild),Geoducks ,LANDED VALUE ($ Millions) ,2016,31.4
+Shellfish (Wild),Geoducks ,WHOLESALE VALUE ($ Millions),2014,43.8
+Shellfish (Wild),Geoducks ,WHOLESALE VALUE ($ Millions),2015,39.9
+Shellfish (Wild),Geoducks ,WHOLESALE VALUE ($ Millions),2016,38.2
+Shellfish (Wild),Prawns ,HARVEST (000 Tonnes) ,2014,1.6
+Shellfish (Wild),Prawns ,HARVEST (000 Tonnes) ,2015,1.8
+Shellfish (Wild),Prawns ,HARVEST (000 Tonnes) ,2016,1.2
+Shellfish (Wild),Prawns ,LANDED VALUE ($ Millions) ,2014,39
+Shellfish (Wild),Prawns ,LANDED VALUE ($ Millions) ,2015,33.5
+Shellfish (Wild),Prawns ,LANDED VALUE ($ Millions) ,2016,18.1
+Shellfish (Wild),Prawns ,WHOLESALE VALUE ($ Millions),2014,57.5
+Shellfish (Wild),Prawns ,WHOLESALE VALUE ($ Millions),2015,47.8
+Shellfish (Wild),Prawns ,WHOLESALE VALUE ($ Millions),2016,38.1
+Shellfish (Wild),Scallops ,HARVEST (000 Tonnes) ,2014,0.01
+Shellfish (Wild),Scallops ,HARVEST (000 Tonnes) ,2015,0.01
+Shellfish (Wild),Scallops ,HARVEST (000 Tonnes) ,2016,0.01
+Shellfish (Wild),Scallops ,LANDED VALUE ($ Millions) ,2014,0.1
+Shellfish (Wild),Scallops ,LANDED VALUE ($ Millions) ,2015,0.1
+Shellfish (Wild),Scallops ,LANDED VALUE ($ Millions) ,2016,0.1
+Shellfish (Wild),Scallops ,WHOLESALE VALUE ($ Millions),2014,0.8
+Shellfish (Wild),Scallops ,WHOLESALE VALUE ($ Millions),2015,1.1
+Shellfish (Wild),Scallops ,WHOLESALE VALUE ($ Millions),2016,1.5
+Shellfish (Wild),Sea Cucumbers ,HARVEST (000 Tonnes) ,2014,1.7
+Shellfish (Wild),Sea Cucumbers ,HARVEST (000 Tonnes) ,2015,1.7
+Shellfish (Wild),Sea Cucumbers ,HARVEST (000 Tonnes) ,2016,1.6
+Shellfish (Wild),Sea Cucumbers ,LANDED VALUE ($ Millions) ,2014,6.8
+Shellfish (Wild),Sea Cucumbers ,LANDED VALUE ($ Millions) ,2015,8.5
+Shellfish (Wild),Sea Cucumbers ,LANDED VALUE ($ Millions) ,2016,10
+Shellfish (Wild),Sea Cucumbers ,WHOLESALE VALUE ($ Millions),2014,8.5
+Shellfish (Wild),Sea Cucumbers ,WHOLESALE VALUE ($ Millions),2015,10.4
+Shellfish (Wild),Sea Cucumbers ,WHOLESALE VALUE ($ Millions),2016,12.4
+Shellfish (Wild),Sea Urchins: Red ,HARVEST (000 Tonnes) ,2014,3.7
+Shellfish (Wild),Sea Urchins: Red ,HARVEST (000 Tonnes) ,2015,3.9
+Shellfish (Wild),Sea Urchins: Red ,HARVEST (000 Tonnes) ,2016,3.3
+Shellfish (Wild),Sea Urchins: Red ,LANDED VALUE ($ Millions) ,2014,4.9
+Shellfish (Wild),Sea Urchins: Red ,LANDED VALUE ($ Millions) ,2015,5.8
+Shellfish (Wild),Sea Urchins: Red ,LANDED VALUE ($ Millions) ,2016,7
+Shellfish (Wild),Sea Urchins: Red ,WHOLESALE VALUE ($ Millions),2014,15.4
+Shellfish (Wild),Sea Urchins: Red ,WHOLESALE VALUE ($ Millions),2015,20.3
+Shellfish (Wild),Sea Urchins: Red ,WHOLESALE VALUE ($ Millions),2016,17.6
+Shellfish (Wild),Sea Urchins: Green ,HARVEST (000 Tonnes) ,2014,0.14
+Shellfish (Wild),Sea Urchins: Green ,HARVEST (000 Tonnes) ,2015,0.17
+Shellfish (Wild),Sea Urchins: Green ,HARVEST (000 Tonnes) ,2016,0.22
+Shellfish (Wild),Sea Urchins: Green ,LANDED VALUE ($ Millions) ,2014,0.5
+Shellfish (Wild),Sea Urchins: Green ,LANDED VALUE ($ Millions) ,2015,0.8
+Shellfish (Wild),Sea Urchins: Green ,LANDED VALUE ($ Millions) ,2016,1.1
+Shellfish (Wild),Sea Urchins: Green ,WHOLESALE VALUE ($ Millions),2014,1.5
+Shellfish (Wild),Sea Urchins: Green ,WHOLESALE VALUE ($ Millions),2015,2.3
+Shellfish (Wild),Sea Urchins: Green ,WHOLESALE VALUE ($ Millions),2016,2.5
+Shellfish (Wild),Shrimp ,HARVEST (000 Tonnes) ,2014,0.5
+Shellfish (Wild),Shrimp ,HARVEST (000 Tonnes) ,2015,4.4
+Shellfish (Wild),Shrimp ,HARVEST (000 Tonnes) ,2016,2.9
+Shellfish (Wild),Shrimp ,LANDED VALUE ($ Millions) ,2014,2.2
+Shellfish (Wild),Shrimp ,LANDED VALUE ($ Millions) ,2015,13.8
+Shellfish (Wild),Shrimp ,LANDED VALUE ($ Millions) ,2016,6.3
+Shellfish (Wild),Shrimp ,WHOLESALE VALUE ($ Millions),2014,7.2
+Shellfish (Wild),Shrimp ,WHOLESALE VALUE ($ Millions),2015,24.2
+Shellfish (Wild),Shrimp ,WHOLESALE VALUE ($ Millions),2016,10.3
+Shellfish (Wild),Other,HARVEST (000 Tonnes) ,2014,0.1
+Shellfish (Wild),Other,HARVEST (000 Tonnes) ,2015,0.2
+Shellfish (Wild),Other,HARVEST (000 Tonnes) ,2016,0.2
+Shellfish (Wild),Other,LANDED VALUE ($ Millions) ,2014,0.3
+Shellfish (Wild),Other,LANDED VALUE ($ Millions) ,2015,0.6
+Shellfish (Wild),Other,LANDED VALUE ($ Millions) ,2016,0.3
+Shellfish (Wild),Other,WHOLESALE VALUE ($ Millions),2014,4.9
+Shellfish (Wild),Other,WHOLESALE VALUE ($ Millions),2015,6.4
+Shellfish (Wild),Other,WHOLESALE VALUE ($ Millions),2016,7.2
+Shellfish (Farmed),Geoducks & Other Clams ,HARVEST (000 Tonnes) ,2014,1.3
+Shellfish (Farmed),Geoducks & Other Clams ,HARVEST (000 Tonnes) ,2015,1.1
+Shellfish (Farmed),Geoducks & Other Clams ,HARVEST (000 Tonnes) ,2016,1
+Shellfish (Farmed),Geoducks & Other Clams ,LANDED VALUE ($ Millions) ,2014,6
+Shellfish (Farmed),Geoducks & Other Clams ,LANDED VALUE ($ Millions) ,2015,6.7
+Shellfish (Farmed),Geoducks & Other Clams ,LANDED VALUE ($ Millions) ,2016,5.6
+Shellfish (Farmed),Geoducks & Other Clams ,WHOLESALE VALUE ($ Millions),2014,11.5
+Shellfish (Farmed),Geoducks & Other Clams ,WHOLESALE VALUE ($ Millions),2015,13.1
+Shellfish (Farmed),Geoducks & Other Clams ,WHOLESALE VALUE ($ Millions),2016,13.1
+Shellfish (Farmed),Mussels & Other 7 ,HARVEST (000 Tonnes) ,2014,0.7
+Shellfish (Farmed),Mussels & Other 7 ,HARVEST (000 Tonnes) ,2015,0.7
+Shellfish (Farmed),Mussels & Other 7 ,HARVEST (000 Tonnes) ,2016,0.7
+Shellfish (Farmed),Mussels & Other 7 ,LANDED VALUE ($ Millions) ,2014,3.1
+Shellfish (Farmed),Mussels & Other 7 ,LANDED VALUE ($ Millions) ,2015,4.2
+Shellfish (Farmed),Mussels & Other 7 ,LANDED VALUE ($ Millions) ,2016,3.5
+Shellfish (Farmed),Mussels & Other 7 ,WHOLESALE VALUE ($ Millions),2014,9.3
+Shellfish (Farmed),Mussels & Other 7 ,WHOLESALE VALUE ($ Millions),2015,10
+Shellfish (Farmed),Mussels & Other 7 ,WHOLESALE VALUE ($ Millions),2016,10.2
+Shellfish (Farmed),Oysters ,HARVEST (000 Tonnes) ,2014,8.2
+Shellfish (Farmed),Oysters ,HARVEST (000 Tonnes) ,2015,9.2
+Shellfish (Farmed),Oysters ,HARVEST (000 Tonnes) ,2016,7.6
+Shellfish (Farmed),Oysters ,LANDED VALUE ($ Millions) ,2014,13
+Shellfish (Farmed),Oysters ,LANDED VALUE ($ Millions) ,2015,14.7
+Shellfish (Farmed),Oysters ,LANDED VALUE ($ Millions) ,2016,14.4
+Shellfish (Farmed),Oysters ,WHOLESALE VALUE ($ Millions),2014,29.7
+Shellfish (Farmed),Oysters ,WHOLESALE VALUE ($ Millions),2015,28.5
+Shellfish (Farmed),Oysters ,WHOLESALE VALUE ($ Millions),2016,30
+Other (Wild),Tuna ,HARVEST (000 Tonnes) ,2014,4.8
+Other (Wild),Tuna ,HARVEST (000 Tonnes) ,2015,4.3
+Other (Wild),Tuna ,HARVEST (000 Tonnes) ,2016,4.1
+Other (Wild),Tuna ,LANDED VALUE ($ Millions) ,2014,14.9
+Other (Wild),Tuna ,LANDED VALUE ($ Millions) ,2015,13.8
+Other (Wild),Tuna ,LANDED VALUE ($ Millions) ,2016,20.5
+Other (Wild),Tuna ,WHOLESALE VALUE ($ Millions),2014,55.5
+Other (Wild),Tuna ,WHOLESALE VALUE ($ Millions),2015,46.6
+Other (Wild),Tuna ,WHOLESALE VALUE ($ Millions),2016,56.9
+Other (Wild),Other Wild,HARVEST (000 Tonnes) ,2014,0.3
+Other (Wild),Other Wild,HARVEST (000 Tonnes) ,2015,0.3
+Other (Wild),Other Wild,HARVEST (000 Tonnes) ,2016,0.3
+Other (Wild),Other Wild,LANDED VALUE ($ Millions) ,2014,1.5
+Other (Wild),Other Wild,LANDED VALUE ($ Millions) ,2015,1.5
+Other (Wild),Other Wild,LANDED VALUE ($ Millions) ,2016,1.5
+Other (Wild),Other Wild,WHOLESALE VALUE ($ Millions),2014,6.7
+Other (Wild),Other Wild,WHOLESALE VALUE ($ Millions),2015,6.8
+Other (Wild),Other Wild,WHOLESALE VALUE ($ Millions),2016,6.2
+Other (Farmed),Other Farmed,HARVEST (000 Tonnes) ,2014,1.5
+Other (Farmed),Other Farmed,HARVEST (000 Tonnes) ,2015,1.2
+Other (Farmed),Other Farmed,HARVEST (000 Tonnes) ,2016,1.5
+Other (Farmed),Other Farmed,LANDED VALUE ($ Millions) ,2014,12.9
+Other (Farmed),Other Farmed,LANDED VALUE ($ Millions) ,2015,8.8
+Other (Farmed),Other Farmed,LANDED VALUE ($ Millions) ,2016,10
+Other (Farmed),Other Farmed,WHOLESALE VALUE ($ Millions),2014,31.7
+Other (Farmed),Other Farmed,WHOLESALE VALUE ($ Millions),2015,29.9
+Other (Farmed),Other Farmed,WHOLESALE VALUE ($ Millions),2016,31.3

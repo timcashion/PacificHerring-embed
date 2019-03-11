@@ -1,0 +1,677 @@
+Year,Measure,Fishery,Gear,Area,Value,Unit
+2018,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"11,177",tons
+2018,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,528",tons
+2018,ExpectedUse,Roe herring,Seine,Strait of Georgia,"9,813",tons
+2018,ExpectedUse,Roe herring,Seine,Prince Rupert,730,tons
+2018,ExpectedUse,Special use,,Strait of Georgia,902,
+2018,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"11,177",tons
+2018,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,528",tons
+2018,QuotaIssued,Roe herring,Seine,Strait of Georgia,"9,813",tons
+2018,QuotaIssued,Roe herring,Seine,Prince Rupert,730,tons
+2018,QuotaIssued,SOK,NA,Prince Rupert,"51,846.00",lbs
+2018,QuotaIssued,SOK,NA,Central Coast,"387,650.00",lbs
+2018,QuotaIssued,SOK,NA,Area10/12,"62,565.00",lbs
+2018,QuotaIssued,Food and Bait,,Strait of Georgia,"6,954",tons
+2018,QuotaIssued,Food and Bait,,Prince Rupert,0,tons
+2018,QuotaIssued,Special use,,Strait of Georgia,671,
+2018,Landings,Roe herring,Gillnet,Strait of Georgia,"11,076",tons
+2018,Landings,Roe herring,Gillnet,Prince Rupert,459,tons
+2018,Landings,Roe herring,Seine,Strait of Georgia,"3,429",tons
+2018,Landings,Roe herring,Seine,Prince Rupert,0,tons
+2018,Landings,SOK,NA,Prince Rupert,"20,832",lbs
+2018,Landings,SOK,NA,Central Coast,"289,358",lbs
+2018,Landings,SOK,NA,Area10/12,"18,761",lbs
+2018,Landings,Food and Bait,,Strait of Georgia,"6,005",tons
+2018,Landings,Food and Bait,,Prince Rupert,N/A,
+2018,Landings,Special use,,Strait of Georgia,Unknown(Privacy),
+2018,#Pools,Roe herring,Gillnet,Strait of Georgia,13,
+2018,#Pools,Roe herring,Gillnet,Prince Rupert,6,
+2018,#Pools,Roe herring,Seine,Strait of Georgia,7,
+2018,#Pools,Roe herring,Seine,Prince Rupert,1,
+2018,#Licences,Roe herring,Gillnet,Strait of Georgia,970,
+2018,#Licences,Roe herring,Gillnet,Prince Rupert,245,
+2018,#Licences,Roe herring,Seine,Strait of Georgia,198,
+2018,#Licences,Roe herring,Seine,Prince Rupert,34,
+2018,#Licences,SOK,NA,Prince Rupert,3,
+2018,#Licences,SOK,NA,Central Coast,15,
+2018,#Licences,SOK,NA,Area10/12,4,
+2018,#Licences,Food and Bait,,Strait of Georgia,252,
+2018,#Licences,Food and Bait,,Prince Rupert,0,
+2018,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,11.522,tons
+2018,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,6.237,tons
+2018,Tonsperlicence,Roe herring,Seine,Strait of Georgia,49.561,tons
+2018,Tonsperlicence,Roe herring,Seine,Prince Rupert,21.471,tons
+2018,Tonsperlicence,Food and Bait,,Strait of Georgia,23.809 / 46* / 80** ,
+2018,Tonsperlicence,Food and Bait,,Prince Rupert,0 ,tons
+2018,Open,Roe herring,Gillnet,Strait of Georgia,"1st - Mar2, 2018 12:00 ",
+2018,Open,Roe herring,Gillnet,Prince Rupert,2018-03-25 9:00,
+2018,Open,Roe herring,Seine,Strait of Georgia,2018-03-05 12:00,
+2018,Open,Roe herring,Seine,Prince Rupert,No opening ,
+2018,Open,SOK,NA,Prince Rupert,- ,
+2018,Open,SOK,NA,Central Coast,- ,
+2018,Open,SOK,NA,Area10/12,- ,
+2017,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"15,172",tons
+2017,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,500",tons
+2017,ExpectedUse,Roe herring,Seine,Strait of Georgia,"13,013",tons
+2017,ExpectedUse,Roe herring,Seine,Prince Rupert,"1,000",tons
+2017,ExpectedUse,Roe herring,Seine,Central Coast,215,tons
+2017,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"15,172",tons
+2017,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,500",tons
+2017,QuotaIssued,Roe herring,Seine,Strait of Georgia,"13,013",tons
+2017,QuotaIssued,Roe herring,Seine,Prince Rupert,"1,000",tons
+2017,QuotaIssued,Roe herring,Seine,Central Coast,215,tons
+2017,QuotaIssued,Food and Bait,,Strait of Georgia,"7,542",tons
+2017,QuotaIssued,Food and Bait,,Prince Rupert,500,tons
+2017,Landings,Roe herring,Gillnet,Strait of Georgia,"10,166",tons
+2017,Landings,Roe herring,Gillnet,Prince Rupert,"1,541",tons
+2017,Landings,Roe herring,Seine,Strait of Georgia,"9,695",tons
+2017,Landings,Roe herring,Seine,Prince Rupert,"1,124",tons
+2017,Landings,Roe herring,Seine,Central Coast,0,tons
+2017,Landings,Food and Bait,,Strait of Georgia,"7,383",tons
+2017,Landings,Food and Bait,,Prince Rupert,*N/A,
+2017,#Pools,Roe herring,Gillnet,Strait of Georgia,11,
+2017,#Pools,Roe herring,Gillnet,Prince Rupert,6,
+2017,#Pools,Roe herring,Seine,Strait of Georgia,8,
+2017,#Pools,Roe herring,Seine,Prince Rupert,1,
+2017,#Pools,Roe herring,Seine,Central Coast,1,
+2017,#Licences,Roe herring,Gillnet,Strait of Georgia,753,
+2017,#Licences,Roe herring,Gillnet,Prince Rupert,455,
+2017,#Licences,Roe herring,Seine,Strait of Georgia,175,
+2017,#Licences,Roe herring,Seine,Prince Rupert,52,
+2017,#Licences,Roe herring,Seine,Central Coast,227,
+2017,#Licences,Food and Bait,,Strait of Georgia,250,
+2017,#Licences,Food and Bait,,Prince Rupert,1,
+2017,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,20.149,tons
+2017,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,3.297,tons
+2017,Tonsperlicence,Roe herring,Seine,Strait of Georgia,74.36,tons
+2017,Tonsperlicence,Roe herring,Seine,Prince Rupert,19.231,tons
+2017,Tonsperlicence,Roe herring,Seine,Central Coast,0.947,tons
+2017,Tonsperlicence,Food and Bait,,Strait of Georgia,29.41/61.68,tons
+2017,Tonsperlicence,Food and Bait,,Prince Rupert,500,tons
+2017,Open,Roe herring,Gillnet,Strait of Georgia,2017-03-04 11:00,
+2017,Open,Roe herring,Gillnet,Prince Rupert,2017-03-17 15:00,
+2017,Open,Roe herring,Seine,Strait of Georgia,2017-03-06 11:00,
+2017,Open,Roe herring,Seine,Prince Rupert,2017-03-23 7:11,
+2017,Open,Roe herring,Seine,Central Coast,No opening,
+2016,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"11,571",tons
+2016,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,500",tons
+2016,ExpectedUse,Roe herring,Seine,Strait of Georgia,"8,374",tons
+2016,ExpectedUse,Roe herring,Seine,Prince Rupert,"1,000",tons
+2016,ExpectedUse,Roe herring,Seine,Central Coast,215,tons
+2016,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"11,571",tons
+2016,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,500",tons
+2016,QuotaIssued,Roe herring,Seine,Strait of Georgia,"8,374",tons
+2016,QuotaIssued,Roe herring,Seine,Prince Rupert,"1,000",tons
+2016,QuotaIssued,Roe herring,Seine,Central Coast,215,tons
+2016,QuotaIssued,Food and Bait,,Strait of Georgia,7768,
+2016,QuotaIssued,Food and Bait,,Prince Rupert,500,
+2016,Landings,Roe herring,Gillnet,Strait of Georgia,"6,761",tons
+2016,Landings,Roe herring,Gillnet,Prince Rupert,"1,521",tons
+2016,Landings,Roe herring,Seine,Strait of Georgia,"8,407",tons
+2016,Landings,Roe herring,Seine,Prince Rupert,803,tons
+2016,Landings,Roe herring,Seine,Central Coast,234,tons
+2016,Landings,Food and Bait,,Strait of Georgia,7639,
+2016,Landings,Food and Bait,,Prince Rupert,*N/A,
+2016,#Pools,Roe herring,Gillnet,Strait of Georgia,11,
+2016,#Pools,Roe herring,Gillnet,Prince Rupert,6,
+2016,#Pools,Roe herring,Seine,Strait of Georgia,8,
+2016,#Pools,Roe herring,Seine,Prince Rupert,1,
+2016,#Pools,Roe herring,Seine,Central Coast,1,
+2016,#Licences,Roe herring,Gillnet,Strait of Georgia,812,
+2016,#Licences,Roe herring,Gillnet,Prince Rupert,346,
+2016,#Licences,Roe herring,Seine,Strait of Georgia,186,
+2016,#Licences,Roe herring,Seine,Prince Rupert,8,
+2016,#Licences,Roe herring,Seine,Central Coast,2,
+2016,#Licences,Food and Bait,,Strait of Georgia,241,
+2016,#Licences,Food and Bait,,Prince Rupert,6,
+2016,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,14.25,tons
+2016,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,4.335,tons
+2016,Tonsperlicence,Roe herring,Seine,Strait of Georgia,45.022,tons
+2016,Tonsperlicence,Roe herring,Seine,Prince Rupert,43.478,tons
+2016,Tonsperlicence,Roe herring,Seine,Central Coast,107.5,tons
+2016,Open,Roe herring,Gillnet,Strait of Georgia,"*Mar6, 2016 10:15",
+2016,Open,Roe herring,Gillnet,Prince Rupert,2016-03-18 19:00,
+2016,Open,Roe herring,Seine,Strait of Georgia,2016-03-03 7:45,
+2016,Open,Roe herring,Seine,Prince Rupert,"*Mar20, 2016 16:15",
+2016,Open,Roe herring,Seine,Central Coast,2016-03-26 6:30,
+2015,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"13,975",tons
+2015,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,200",tons
+2015,ExpectedUse,Roe herring,Gillnet,Central Coast,600,tons
+2015,ExpectedUse,Roe herring,Gillnet,West Coast Vancouver Island,"1,000",tons
+2015,ExpectedUse,Roe herring,Seine,Strait of Georgia,"15,440",tons
+2015,ExpectedUse,Roe herring,Seine,Prince Rupert,800,tons
+2015,ExpectedUse,Roe herring,Seine,West Coast Vancouver Island,"2,000",tons
+2015,ExpectedUse,Roe herring,Seine,Haida Gwaii,800,tons
+2015,ExpectedUse,Roe herring,Seine,Central Coast,800,tons
+2015,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"13,975",tons
+2015,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,200",tons
+2015,QuotaIssued,Roe herring,Gillnet,Central Coast,600,tons
+2015,QuotaIssued,Roe herring,Gillnet,West Coast Vancouver Island,"1,000",tons
+2015,QuotaIssued,Roe herring,Seine,Strait of Georgia,"15,440",tons
+2015,QuotaIssued,Roe herring,Seine,Prince Rupert,800,tons
+2015,QuotaIssued,Roe herring,Seine,West Coast Vancouver Island,"2,000",tons
+2015,QuotaIssued,Roe herring,Seine,Haida Gwaii,800,tons
+2015,QuotaIssued,Roe herring,Seine,Central Coast,800,tons
+2015,QuotaIssued,Food and Bait,,Strait of Georgia,"9,085",tons
+2015,QuotaIssued,Food and Bait,,Prince Rupert,500,tons
+2015,Landings,Roe herring,Gillnet,Strait of Georgia,"4,107",tons
+2015,Landings,Roe herring,Gillnet,Prince Rupert,"1,092",tons
+2015,Landings,Roe herring,Gillnet,Central Coast,0,
+2015,Landings,Roe herring,Gillnet,West Coast Vancouver Island,0,
+2015,Landings,Roe herring,Seine,Strait of Georgia,"9,278",tons
+2015,Landings,Roe herring,Seine,Prince Rupert,812,tons
+2015,Landings,Roe herring,Seine,West Coast Vancouver Island,0,
+2015,Landings,Roe herring,Seine,Haida Gwaii,0*,
+2015,Landings,Roe herring,Seine,Central Coast,689,tons
+2015,Landings,Food and Bait,,Strait of Georgia,"7,931",tons
+2015,Landings,Food and Bait,,Prince Rupert,*N/A,
+2015,#Pools,Roe herring,Gillnet,Strait of Georgia,22,
+2015,#Pools,Roe herring,Gillnet,Prince Rupert,5,
+2015,#Pools,Roe herring,Gillnet,Central Coast,3,
+2015,#Pools,Roe herring,Gillnet,West Coast Vancouver Island,3,
+2015,#Pools,Roe herring,Seine,Strait of Georgia,8,
+2015,#Pools,Roe herring,Seine,Prince Rupert,1,
+2015,#Pools,Roe herring,Seine,West Coast Vancouver Island,1,
+2015,#Pools,Roe herring,Seine,Haida Gwaii,1,
+2015,#Pools,Roe herring,Seine,Central Coast,1,
+2015,#Licences,Roe herring,Gillnet,Strait of Georgia,1028,
+2015,#Licences,Roe herring,Gillnet,Prince Rupert,125,
+2015,#Licences,Roe herring,Gillnet,Central Coast,60,
+2015,#Licences,Roe herring,Gillnet,West Coast Vancouver Island,15,
+2015,#Licences,Roe herring,Seine,Strait of Georgia,216,
+2015,#Licences,Roe herring,Seine,Prince Rupert,8,
+2015,#Licences,Roe herring,Seine,West Coast Vancouver Island,7,
+2015,#Licences,Roe herring,Seine,Haida Gwaii,2,
+2015,#Licences,Roe herring,Seine,Central Coast,9,
+2015,#Licences,Food and Bait,,Strait of Georgia,210,
+2015,#Licences,Food and Bait,,Prince Rupert,10,
+2015,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,13.594,tons
+2015,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,9.6,tons
+2015,Tonsperlicence,Roe herring,Gillnet,Central Coast,10,tons
+2015,Tonsperlicence,Roe herring,Gillnet,West Coast Vancouver Island,66.667,tons
+2015,Tonsperlicence,Roe herring,Seine,Strait of Georgia,71.481,tons
+2015,Tonsperlicence,Roe herring,Seine,Prince Rupert,100,tons
+2015,Tonsperlicence,Roe herring,Seine,West Coast Vancouver Island,285.714,tons
+2015,Tonsperlicence,Roe herring,Seine,Haida Gwaii,400,tons
+2015,Tonsperlicence,Roe herring,Seine,Central Coast,88.889,tons
+2015,Tonsperlicence,Food and Bait,,Strait of Georgia,35.123/65,tons
+2015,Tonsperlicence,Food and Bait,,Prince Rupert,50,tons
+2015,Open,Roe herring,Gillnet,Strait of Georgia,"Feb28, 2015
+14:30",
+2015,Open,Roe herring,Gillnet,Prince Rupert,"Mar22, 2015
+08:00",
+2015,Open,Roe herring,Gillnet,Central Coast,"Mar31, 2015
+12:00",
+2015,Open,Roe herring,Gillnet,West Coast Vancouver Island,No opening,
+2015,Open,Roe herring,Seine,Strait of Georgia,"Feb24, 2015
+17:00",
+2015,Open,Roe herring,Seine,Prince Rupert,"Mar21,
+2015 07:53",
+2015,Open,Roe herring,Seine,West Coast Vancouver Island,"Mar8, 2015
+16:00",
+2015,Open,Roe herring,Seine,Haida Gwaii,No fishery,
+2015,Open,Roe herring,Seine,Central Coast,"Mar22,
+2015 16:48",
+2014,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"6,090",tons
+2014,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,200",tons
+2014,ExpectedUse,Roe herring,Gillnet,Central Coast,750,
+2014,ExpectedUse,Roe herring,Gillnet,West Coast Vancouver Island,825,
+2014,ExpectedUse,Roe herring,Seine,Strait of Georgia,"7,543",tons
+2014,ExpectedUse,Roe herring,Seine,Prince Rupert,800,tons
+2014,ExpectedUse,Roe herring,Seine,West Coast Vancouver Island,"1,292",tons
+2014,ExpectedUse,Roe herring,Seine,Haida Gwaii,"1,200",tons
+2014,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"6,090",tons
+2014,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,200",tons
+2014,QuotaIssued,Roe herring,Gillnet,Central Coast,750,
+2014,QuotaIssued,Roe herring,Gillnet,West Coast Vancouver Island,825,
+2014,QuotaIssued,Roe herring,Seine,Strait of Georgia,"7,543",tons
+2014,QuotaIssued,Roe herring,Seine,Prince Rupert,800,tons
+2014,QuotaIssued,Roe herring,Seine,West Coast Vancouver Island,"1,292",tons
+2014,QuotaIssued,Roe herring,Seine,Haida Gwaii,"1,200",tons
+2014,QuotaIssued,SOK,NA,Area10/12,"8,000",tons
+2014,QuotaIssued,Food and Bait,,Strait of Georgia,200,tons
+2014,Landings,Roe herring,Gillnet,Strait of Georgia,"6,167",tons
+2014,Landings,Roe herring,Gillnet,Prince Rupert,"1,230",tons
+2014,Landings,Roe herring,Gillnet,Central Coast,757,
+2014,Landings,Roe herring,Gillnet,West Coast Vancouver Island,0*,
+2014,Landings,Roe herring,Seine,Strait of Georgia,"7,584",tons
+2014,Landings,Roe herring,Seine,Prince Rupert,791,tons
+2014,Landings,Roe herring,Seine,West Coast Vancouver Island,0*,
+2014,Landings,Roe herring,Seine,Haida Gwaii,0,
+2014,Landings,SOK,NA,Area10/12,"8,000",tons
+2014,Landings,Food and Bait,,Strait of Georgia,*N/A,
+2014,#Pools,Roe herring,Gillnet,Strait of Georgia,11,
+2014,#Pools,Roe herring,Gillnet,Prince Rupert,5,
+2014,#Pools,Roe herring,Gillnet,Central Coast,6,
+2014,#Pools,Roe herring,Gillnet,West Coast Vancouver Island,4,
+2014,#Pools,Roe herring,Seine,Strait of Georgia,9,
+2014,#Pools,Roe herring,Seine,Prince Rupert,1,
+2014,#Pools,Roe herring,Seine,West Coast Vancouver Island,1,
+2014,#Pools,Roe herring,Seine,Haida Gwaii,1,
+2014,#Licences,Roe herring,Gillnet,Strait of Georgia,1018,
+2014,#Licences,Roe herring,Gillnet,Prince Rupert,172,
+2014,#Licences,Roe herring,Gillnet,Central Coast,50,
+2014,#Licences,Roe herring,Gillnet,West Coast Vancouver Island,23,
+2014,#Licences,Roe herring,Seine,Strait of Georgia,195,
+2014,#Licences,Roe herring,Seine,Prince Rupert,16,
+2014,#Licences,Roe herring,Seine,West Coast Vancouver Island,27,
+2014,#Licences,Roe herring,Seine,Haida Gwaii,13,
+2014,#Licences,SOK,NA,Area10/12,100,
+2014,#Licences,Food and Bait,,Strait of Georgia,4,
+2014,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,5.982,tons
+2014,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,6.977,tons
+2014,Tonsperlicence,Roe herring,Gillnet,Central Coast,15,tons
+2014,Tonsperlicence,Roe herring,Gillnet,West Coast Vancouver Island,35.87,tons
+2014,Tonsperlicence,Roe herring,Seine,Strait of Georgia,38.682,tons
+2014,Tonsperlicence,Roe herring,Seine,Prince Rupert,50,tons
+2014,Tonsperlicence,Roe herring,Seine,West Coast Vancouver Island,47.852,tons
+2014,Tonsperlicence,Roe herring,Seine,Haida Gwaii,92.308,tons
+2014,Tonsperlicence,SOK,NA,Area10/12,80,tons
+2014,Tonsperlicence,Food and Bait,,Strait of Georgia,50,tons
+2014,Open,Roe herring,Gillnet,Strait of Georgia,"Mar5, 2014
+09:30",
+2014,Open,Roe herring,Gillnet,Prince Rupert,"Mar30, 2014
+08:00",
+2014,Open,Roe herring,Gillnet,Central Coast,"Apr1, 2014
+14:30",
+2014,Open,Roe herring,Gillnet,West Coast Vancouver Island,No fishery,
+2014,Open,Roe herring,Seine,Strait of Georgia,"Mar3, 2014
+11:00",
+2014,Open,Roe herring,Seine,Prince Rupert,"Mar23, 2014
+07:25",
+2014,Open,Roe herring,Seine,West Coast Vancouver Island,No fishery,
+2014,Open,Roe herring,Seine,Haida Gwaii,No fishery,
+2013,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"6,350",tons
+2013,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,300",tons
+2013,ExpectedUse,Roe herring,Seine,Strait of Georgia,"6,655",tons
+2013,ExpectedUse,Roe herring,Seine,Prince Rupert,800,tons
+2013,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"6,350",tons
+2013,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,300",tons
+2013,QuotaIssued,Roe herring,Seine,Strait of Georgia,"6,655",tons
+2013,QuotaIssued,Roe herring,Seine,Prince Rupert,800,tons
+2013,QuotaIssued,Food and Bait,,Strait of Georgia,"4,445",tons
+2013,QuotaIssued,Food and Bait,,Prince Rupert,50,tons
+2013,Landings,Roe herring,Gillnet,Strait of Georgia,"6,509",tons
+2013,Landings,Roe herring,Gillnet,Prince Rupert,"1,415",tons
+2013,Landings,Roe herring,Seine,Strait of Georgia,"6,723",tons
+2013,Landings,Roe herring,Seine,Prince Rupert,818,tons
+2013,Landings,Food and Bait,,Strait of Georgia,"4,400",tons
+2013,Landings,Food and Bait,,Prince Rupert,-,
+2013,#Pools,Roe herring,Gillnet,Strait of Georgia,15,
+2013,#Pools,Roe herring,Gillnet,Prince Rupert,7,
+2013,#Pools,Roe herring,Seine,Strait of Georgia,9,
+2013,#Pools,Roe herring,Seine,Prince Rupert,1,
+2013,#Licences,Roe herring,Gillnet,Strait of Georgia,1049,
+2013,#Licences,Roe herring,Gillnet,Prince Rupert,215,
+2013,#Licences,Roe herring,Seine,Strait of Georgia,226,
+2013,#Licences,Roe herring,Seine,Prince Rupert,24,
+2013,#Licences,Food and Bait,,Strait of Georgia,101,
+2013,#Licences,Food and Bait,,Prince Rupert,0,
+2013,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,6.053,tons
+2013,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,6.047,tons
+2013,Tonsperlicence,Roe herring,Seine,Strait of Georgia,29.447,tons
+2013,Tonsperlicence,Roe herring,Seine,Prince Rupert,33.333,tons
+2013,Open,Roe herring,Gillnet,Strait of Georgia,2013-03-02 16:00,
+2013,Open,Roe herring,Gillnet,Prince Rupert,2013-03-20 8:00,
+2013,Open,Roe herring,Seine,Strait of Georgia,2013-03-03 17:30,
+2013,Open,Roe herring,Seine,Prince Rupert,"Mar19, 2013 17:15/Mar.
+22, 2013 11:05",
+2012,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"4,850",tons
+2012,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,000",tons
+2012,ExpectedUse,Roe herring,Seine,Strait of Georgia,"6,650",tons
+2012,ExpectedUse,Roe herring,Seine,Prince Rupert,500,tons
+2012,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"4,850",tons
+2012,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,000",tons
+2012,QuotaIssued,Roe herring,Seine,Strait of Georgia,"6,650",tons
+2012,QuotaIssued,Roe herring,Seine,Prince Rupert,500,tons
+2012,QuotaIssued,Food and Bait,,Strait of Georgia,"6,000",tons
+2012,QuotaIssued,Food and Bait,,Prince Rupert,60,tons
+2012,Landings,Roe herring,Gillnet,Strait of Georgia,"4,496",tons
+2012,Landings,Roe herring,Gillnet,Prince Rupert,"1,010",tons
+2012,Landings,Roe herring,Seine,Strait of Georgia,"3,494",tons
+2012,Landings,Roe herring,Seine,Prince Rupert,514,tons
+2012,Landings,Food and Bait,,Strait of Georgia,"3,950",tons
+2012,Landings,Food and Bait,,Prince Rupert,-,
+2012,#Pools,Roe herring,Gillnet,Strait of Georgia,33,
+2012,#Pools,Roe herring,Gillnet,Prince Rupert,8,
+2012,#Pools,Roe herring,Seine,Strait of Georgia,10,
+2012,#Pools,Roe herring,Seine,Prince Rupert,1,
+2012,#Licences,Roe herring,Gillnet,Strait of Georgia,1054,
+2012,#Licences,Roe herring,Gillnet,Prince Rupert,118,
+2012,#Licences,Roe herring,Seine,Strait of Georgia,238,
+2012,#Licences,Roe herring,Seine,Prince Rupert,11,
+2012,#Licences,Food and Bait,,Strait of Georgia,70,
+2012,#Licences,Food and Bait,,Prince Rupert,0,
+2012,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,4.6,tons
+2012,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,8.47,tons
+2012,Tonsperlicence,Roe herring,Seine,Strait of Georgia,27.94,tons
+2012,Tonsperlicence,Roe herring,Seine,Prince Rupert,45.45,tons
+2012,Tonsperlicence,Food and Bait,,Strait of Georgia,60,tons
+2012,Tonsperlicence,Food and Bait,,Prince Rupert,60,tons
+2012,Open,Roe herring,Gillnet,Strait of Georgia,"Mar4, 2012 13:00h",
+2012,Open,Roe herring,Gillnet,Prince Rupert,"Mar24, 2012 10:00h",
+2012,Open,Roe herring,Seine,Strait of Georgia,"Mar4, 2012 15:25h/Mar.
+17, 2012 08:20h",
+2012,Open,Roe herring,Seine,Prince Rupert,"Mar30, 2012 06:30h",
+2011,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"5,785",tons
+2011,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,346",tons
+2011,ExpectedUse,Roe herring,Seine,Strait of Georgia,7715,
+2011,ExpectedUse,Roe herring,Seine,Prince Rupert,1000,
+2011,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"5,785",tons
+2011,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,346",tons
+2011,QuotaIssued,Roe herring,Seine,Strait of Georgia,7715,
+2011,QuotaIssued,Roe herring,Seine,Prince Rupert,1000,
+2011,QuotaIssued,Food and Bait,,Strait of Georgia,300,tons
+2011,QuotaIssued,Food and Bait,,Prince Rupert,50,tons
+2011,Landings,Roe herring,Gillnet,Strait of Georgia,"4,868",tons
+2011,Landings,Roe herring,Gillnet,Prince Rupert,"1,392",tons
+2011,Landings,Roe herring,Seine,Strait of Georgia,0,
+2011,Landings,Roe herring,Seine,Prince Rupert,973,
+2011,Landings,Food and Bait,,Strait of Georgia,283,tons
+2011,Landings,Food and Bait,,Prince Rupert,-,
+2011,#Pools,Roe herring,Gillnet,Strait of Georgia,36,
+2011,#Pools,Roe herring,Gillnet,Prince Rupert,8,
+2011,#Pools,Roe herring,Seine,Strait of Georgia,13,
+2011,#Pools,Roe herring,Seine,Prince Rupert,1,
+2011,#Licences,Roe herring,Gillnet,Strait of Georgia,1133,
+2011,#Licences,Roe herring,Gillnet,Prince Rupert,95,
+2011,#Licences,Roe herring,Seine,Strait of Georgia,238,
+2011,#Licences,Roe herring,Seine,Prince Rupert,10,
+2011,#Licences,Food and Bait,,Strait of Georgia,6,
+2011,#Licences,Food and Bait,,Prince Rupert,0,
+2011,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,5.106,tons
+2011,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,14.168,tons
+2011,Tonsperlicence,Roe herring,Seine,Strait of Georgia,32.416,
+2011,Tonsperlicence,Roe herring,Seine,Prince Rupert,100,
+2011,Open,Roe herring,Gillnet,Strait of Georgia,"Mar13, 2011 11:00h",
+2011,Open,Roe herring,Gillnet,Prince Rupert,"Mar26, 2011 09:00h",
+2011,Open,Roe herring,Seine,Strait of Georgia,-,
+2011,Open,Roe herring,Seine,Prince Rupert,Mar25 2011 11:45h,
+2010,ExpectedUse,Roe herring,Gillnet,Strait of Georgia,"3,480",tons
+2010,ExpectedUse,Roe herring,Gillnet,Prince Rupert,"1,037",tons
+2010,ExpectedUse,Roe herring,Seine,Strait of Georgia,"5,020",tons
+2010,ExpectedUse,Roe herring,Seine,Prince Rupert,500,tons
+2010,QuotaIssued,Roe herring,Gillnet,Strait of Georgia,"3,480",tons
+2010,QuotaIssued,Roe herring,Gillnet,Prince Rupert,"1,037",tons
+2010,QuotaIssued,Roe herring,Seine,Strait of Georgia,"5,020",tons
+2010,QuotaIssued,Roe herring,Seine,Prince Rupert,500,tons
+2010,QuotaIssued,Food and Bait,,Strait of Georgia,300,tons
+2010,QuotaIssued,Food and Bait,,Prince Rupert,50,tons
+2010,Landings,Roe herring,Gillnet,Strait of Georgia,"3,576",tons
+2010,Landings,Roe herring,Gillnet,Prince Rupert,"1,115",tons
+2010,Landings,Roe herring,Seine,Strait of Georgia,"5,004",tons
+2010,Landings,Roe herring,Seine,Prince Rupert,523,tons
+2010,Landings,Food and Bait,,Strait of Georgia,284,tons
+2010,Landings,Food and Bait,,Prince Rupert,-,
+2010,#Pools,Roe herring,Gillnet,Strait of Georgia,13,
+2010,#Pools,Roe herring,Gillnet,Prince Rupert,1,
+2010,#Pools,Roe herring,Seine,Strait of Georgia,8,
+2010,#Pools,Roe herring,Seine,Prince Rupert,1,
+2010,#Licences,Roe herring,Gillnet,Strait of Georgia,990,
+2010,#Licences,Roe herring,Gillnet,Prince Rupert,264,
+2010,#Licences,Roe herring,Seine,Strait of Georgia,223,
+2010,#Licences,Roe herring,Seine,Prince Rupert,27,
+2010,#Licences,Food and Bait,,Strait of Georgia,6,
+2010,#Licences,Food and Bait,,Prince Rupert,0,
+2010,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,3.515,tons
+2010,Tonsperlicence,Roe herring,Gillnet,Prince Rupert,3.928,tons
+2010,Tonsperlicence,Roe herring,Seine,Strait of Georgia,22.511,
+2010,Tonsperlicence,Roe herring,Seine,Prince Rupert,18.519,
+2010,Tonsperlicence,Food and Bait,,Strait of Georgia,50,tons
+2010,Tonsperlicence,Food and Bait,,Prince Rupert,50,tons
+2010,Open,Roe herring,Gillnet,Strait of Georgia,"Feb26, 2010 14:00h",
+2010,Open,Roe herring,Gillnet,Prince Rupert,29-Mar-10,
+2010,Open,Roe herring,Seine,Strait of Georgia,"Open Feb28, 2010 07:00h ",
+2010,Open,Roe herring,Seine,Prince Rupert,"Mar23, 2010 09:05h",
+1980,Landings,Roe herring,Gillnet,Strait of Georgia,"3,502",tons
+1981,Landings,Roe herring,Gillnet,Strait of Georgia,"5,584",tons
+1982,Landings,Roe herring,Gillnet,Strait of Georgia,"6,154",tons
+1983,Landings,Roe herring,Gillnet,Strait of Georgia,"9,495",tons
+1984,Landings,Roe herring,Gillnet,Strait of Georgia,"6,657",tons
+1985,Landings,Roe herring,Gillnet,Strait of Georgia,"3,852",tons
+1986,Landings,Roe herring,Gillnet,Strait of Georgia,0,tons
+1987,Landings,Roe herring,Gillnet,Strait of Georgia,"6,612",tons
+1988,Landings,Roe herring,Gillnet,Strait of Georgia,"6,601",tons
+1989,Landings,Roe herring,Gillnet,Strait of Georgia,"6,525.00",tons
+1990,Landings,Roe herring,Gillnet,Strait of Georgia,"8,693.00",tons
+1991,Landings,Roe herring,Gillnet,Strait of Georgia,"9,844.00",tons
+1992,Landings,Roe herring,Gillnet,Strait of Georgia,"9,393",tons
+1993,Landings,Roe herring,Gillnet,Strait of Georgia,"9,948.00",tons
+1994,Landings,Roe herring,Gillnet,Strait of Georgia,"12,249.00",tons
+1995,Landings,Roe herring,Gillnet,Strait of Georgia,"9,112",tons
+1996,Landings,Roe herring,Gillnet,Strait of Georgia,"6,528.00",tons
+1997,Landings,Roe herring,Gillnet,Strait of Georgia,"6,294",tons
+1998,Landings,Roe herring,Gillnet,Strait of Georgia,"7,343.00",tons
+1999,Landings,Roe herring,Gillnet,Strait of Georgia,"7,296",tons
+2000,Landings,Roe herring,Gillnet,Strait of Georgia,"8,155.00",tons
+2001,Landings,Roe herring,Gillnet,Strait of Georgia,"8,281",tons
+2002,Landings,Roe herring,Gillnet,Strait of Georgia,"8,640.00",tons
+2003,Landings,Roe herring,Gillnet,Strait of Georgia,"8,707",tons
+2004,Landings,Roe herring,Gillnet,Strait of Georgia,"5,637.00",tons
+2005,Landings,Roe herring,Gillnet,Strait of Georgia,"9,657",tons
+2006,Landings,Roe herring,Gillnet,Strait of Georgia,"7,698.00",tons
+2007,Landings,Roe herring,Gillnet,Strait of Georgia,"5,826",tons
+2008,Landings,Roe herring,Gillnet,Strait of Georgia,"3,033.00",tons
+2009,Landings,Roe herring,Gillnet,Strait of Georgia,"4,340",tons
+2010,Landings,Roe herring,Gillnet,Strait of Georgia,"3,576.00",tons
+1980,Landings,Roe herring,Seine,Strait of Georgia,0,tons
+1981,Landings,Roe herring,Seine,Strait of Georgia,"2,294.00",tons
+1982,Landings,Roe herring,Seine,Strait of Georgia,"3,651",tons
+1983,Landings,Roe herring,Seine,Strait of Georgia,"8,576.00",tons
+1984,Landings,Roe herring,Seine,Strait of Georgia,"4,548",tons
+1985,Landings,Roe herring,Seine,Strait of Georgia,"2,915.00",tons
+1986,Landings,Roe herring,Seine,Strait of Georgia,0,tons
+1987,Landings,Roe herring,Seine,Strait of Georgia,"3,429.00",tons
+1988,Landings,Roe herring,Seine,Strait of Georgia,"1,621",tons
+1989,Landings,Roe herring,Seine,Strait of Georgia,"1,562.00",tons
+1990,Landings,Roe herring,Seine,Strait of Georgia,0,tons
+1991,Landings,Roe herring,Seine,Strait of Georgia,"1,020.00",tons
+1992,Landings,Roe herring,Seine,Strait of Georgia,"3,430",tons
+1993,Landings,Roe herring,Seine,Strait of Georgia,"4,383.00",tons
+1994,Landings,Roe herring,Seine,Strait of Georgia,"4,902",tons
+1995,Landings,Roe herring,Seine,Strait of Georgia,"4,209.00",tons
+1996,Landings,Roe herring,Seine,Strait of Georgia,"6,995",tons
+1997,Landings,Roe herring,Seine,Strait of Georgia,"9,410.00",tons
+1998,Landings,Roe herring,Seine,Strait of Georgia,"6,259",tons
+1999,Landings,Roe herring,Seine,Strait of Georgia,"5,104.00",tons
+2000,Landings,Roe herring,Seine,Strait of Georgia,"6,689",tons
+2001,Landings,Roe herring,Seine,Strait of Georgia,"7,358.00",tons
+2002,Landings,Roe herring,Seine,Strait of Georgia,"9,685",tons
+2003,Landings,Roe herring,Seine,Strait of Georgia,"10,897.00",tons
+2004,Landings,Roe herring,Seine,Strait of Georgia,"7,737",tons
+2005,Landings,Roe herring,Seine,Strait of Georgia,"7,710.00",tons
+2006,Landings,Roe herring,Seine,Strait of Georgia,"9,060",tons
+2007,Landings,Roe herring,Seine,Strait of Georgia,"4,260.00",tons
+2008,Landings,Roe herring,Seine,Strait of Georgia,"6,664",tons
+2009,Landings,Roe herring,Seine,Strait of Georgia,"6,265.00",tons
+2010,Landings,Roe herring,Seine,Strait of Georgia,"5,004",tons
+1980,Landings,Roe herring,Gillnet,Haida Gwaii,1334,tons
+1981,Landings,Roe herring,Gillnet,Haida Gwaii,1879,tons
+1982,Landings,Roe herring,Gillnet,Haida Gwaii,1551,tons
+1983,Landings,Roe herring,Gillnet,Haida Gwaii,1024,tons
+1984,Landings,Roe herring,Gillnet,Haida Gwaii,589,tons
+1985,Landings,Roe herring,Gillnet,Haida Gwaii,1644,tons
+1986,Landings,Roe herring,Gillnet,Haida Gwaii,981,tons
+1987,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1988,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1989,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1990,Landings,Roe herring,Gillnet,Haida Gwaii,1290,tons
+1991,Landings,Roe herring,Gillnet,Haida Gwaii,598,tons
+1992,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1993,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1994,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1995,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1996,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1997,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1998,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1999,Landings,Roe herring,Gillnet,Haida Gwaii,521,tons
+2000,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2001,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2002,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2003,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2004,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2005,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2006,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2007,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2008,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2009,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+2010,Landings,Roe herring,Gillnet,Haida Gwaii,0,tons
+1980,Landings,Roe herring,Seine,Haida Gwaii,2321,tons
+1981,Landings,Roe herring,Seine,Haida Gwaii,4281,tons
+1982,Landings,Roe herring,Seine,Haida Gwaii,2594,tons
+1983,Landings,Roe herring,Seine,Haida Gwaii,5071,tons
+1984,Landings,Roe herring,Seine,Haida Gwaii,4427,tons
+1985,Landings,Roe herring,Seine,Haida Gwaii,4832,tons
+1986,Landings,Roe herring,Seine,Haida Gwaii,2720,tons
+1987,Landings,Roe herring,Seine,Haida Gwaii,1896,tons
+1988,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+1989,Landings,Roe herring,Seine,Haida Gwaii,1211,tons
+1990,Landings,Roe herring,Seine,Haida Gwaii,5787,tons
+1991,Landings,Roe herring,Seine,Haida Gwaii,6367,tons
+1992,Landings,Roe herring,Seine,Haida Gwaii,3650,tons
+1993,Landings,Roe herring,Seine,Haida Gwaii,3470,tons
+1994,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+1995,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+1996,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+1997,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+1998,Landings,Roe herring,Seine,Haida Gwaii,1512,tons
+1999,Landings,Roe herring,Seine,Haida Gwaii,2484,tons
+2000,Landings,Roe herring,Seine,Haida Gwaii,1640,tons
+2001,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2002,Landings,Roe herring,Seine,Haida Gwaii,502,tons
+2003,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2004,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2005,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2006,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2007,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2008,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2009,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+2010,Landings,Roe herring,Seine,Haida Gwaii,0,tons
+1980,Landings,Roe herring,Gillnet,Prince Rupert,1153,tons
+1981,Landings,Roe herring,Gillnet,Prince Rupert,392,tons
+1982,Landings,Roe herring,Gillnet,Prince Rupert,0,tons
+1983,Landings,Roe herring,Gillnet,Prince Rupert,0,tons
+1984,Landings,Roe herring,Gillnet,Prince Rupert,2072,tons
+1985,Landings,Roe herring,Gillnet,Prince Rupert,3831,tons
+1986,Landings,Roe herring,Gillnet,Prince Rupert,5039,tons
+1987,Landings,Roe herring,Gillnet,Prince Rupert,4485,tons
+1988,Landings,Roe herring,Gillnet,Prince Rupert,4781,tons
+1989,Landings,Roe herring,Gillnet,Prince Rupert,5231,tons
+1990,Landings,Roe herring,Gillnet,Prince Rupert,2603,tons
+1991,Landings,Roe herring,Gillnet,Prince Rupert,0,tons
+1992,Landings,Roe herring,Gillnet,Prince Rupert,3912,tons
+1993,Landings,Roe herring,Gillnet,Prince Rupert,4155,tons
+1994,Landings,Roe herring,Gillnet,Prince Rupert,2530,tons
+1995,Landings,Roe herring,Gillnet,Prince Rupert,1522,tons
+1996,Landings,Roe herring,Gillnet,Prince Rupert,3075,tons
+1997,Landings,Roe herring,Gillnet,Prince Rupert,6007,tons
+1998,Landings,Roe herring,Gillnet,Prince Rupert,3501,tons
+1999,Landings,Roe herring,Gillnet,Prince Rupert,2028,tons
+2000,Landings,Roe herring,Gillnet,Prince Rupert,3308,tons
+2001,Landings,Roe herring,Gillnet,Prince Rupert,2100,tons
+2002,Landings,Roe herring,Gillnet,Prince Rupert,2681,tons
+2003,Landings,Roe herring,Gillnet,Prince Rupert,2706,tons
+2004,Landings,Roe herring,Gillnet,Prince Rupert,2330,tons
+2005,Landings,Roe herring,Gillnet,Prince Rupert,2142,tons
+2006,Landings,Roe herring,Gillnet,Prince Rupert,1697,tons
+2007,Landings,Roe herring,Gillnet,Prince Rupert,1067,tons
+2008,Landings,Roe herring,Gillnet,Prince Rupert,1266,tons
+2009,Landings,Roe herring,Gillnet,Prince Rupert,1418,tons
+2010,Landings,Roe herring,Gillnet,Prince Rupert,1113,tons
+1980,Landings,Roe herring,Seine,Prince Rupert,1809,tons
+1981,Landings,Roe herring,Seine,Prince Rupert,1159,tons
+1982,Landings,Roe herring,Seine,Prince Rupert,0,tons
+1983,Landings,Roe herring,Seine,Prince Rupert,0,tons
+1984,Landings,Roe herring,Seine,Prince Rupert,1822,tons
+1985,Landings,Roe herring,Seine,Prince Rupert,3086,tons
+1986,Landings,Roe herring,Seine,Prince Rupert,3796,tons
+1987,Landings,Roe herring,Seine,Prince Rupert,1918,tons
+1988,Landings,Roe herring,Seine,Prince Rupert,3585,tons
+1989,Landings,Roe herring,Seine,Prince Rupert,3805,tons
+1990,Landings,Roe herring,Seine,Prince Rupert,2224,tons
+1991,Landings,Roe herring,Seine,Prince Rupert,0,tons
+1992,Landings,Roe herring,Seine,Prince Rupert,1230,tons
+1993,Landings,Roe herring,Seine,Prince Rupert,2000,tons
+1994,Landings,Roe herring,Seine,Prince Rupert,2017,tons
+1995,Landings,Roe herring,Seine,Prince Rupert,797,tons
+1996,Landings,Roe herring,Seine,Prince Rupert,0,tons
+1997,Landings,Roe herring,Seine,Prince Rupert,0,tons
+1998,Landings,Roe herring,Seine,Prince Rupert,0,tons
+1999,Landings,Roe herring,Seine,Prince Rupert,0,tons
+2000,Landings,Roe herring,Seine,Prince Rupert,1366,tons
+2001,Landings,Roe herring,Seine,Prince Rupert,839,tons
+2002,Landings,Roe herring,Seine,Prince Rupert,2059,tons
+2003,Landings,Roe herring,Seine,Prince Rupert,1383,tons
+2004,Landings,Roe herring,Seine,Prince Rupert,1646,tons
+2005,Landings,Roe herring,Seine,Prince Rupert,1567,tons
+2006,Landings,Roe herring,Seine,Prince Rupert,820,tons
+2007,Landings,Roe herring,Seine,Prince Rupert,0,tons
+2008,Landings,Roe herring,Seine,Prince Rupert,566,tons
+2009,Landings,Roe herring,Seine,Prince Rupert,786,tons
+2010,Landings,Roe herring,Seine,Prince Rupert,523,tons
+1980,Landings,Roe herring,Gillnet,Central Coast,0,tons
+1981,Landings,Roe herring,Gillnet,Central Coast,0,tons
+1982,Landings,Roe herring,Gillnet,Central Coast,4488,tons
+1983,Landings,Roe herring,Gillnet,Central Coast,3945,tons
+1984,Landings,Roe herring,Gillnet,Central Coast,3949,tons
+1985,Landings,Roe herring,Gillnet,Central Coast,2529,tons
+1986,Landings,Roe herring,Gillnet,Central Coast,1296,tons
+1987,Landings,Roe herring,Gillnet,Central Coast,1014,tons
+1988,Landings,Roe herring,Gillnet,Central Coast,1069,tons
+1989,Landings,Roe herring,Gillnet,Central Coast,3209,tons
+1990,Landings,Roe herring,Gillnet,Central Coast,3357,tons
+1991,Landings,Roe herring,Gillnet,Central Coast,1915,tons
+1992,Landings,Roe herring,Gillnet,Central Coast,1085,tons
+1993,Landings,Roe herring,Gillnet,Central Coast,2007,tons
+1994,Landings,Roe herring,Gillnet,Central Coast,2406,tons
+1995,Landings,Roe herring,Gillnet,Central Coast,1581,tons
+1996,Landings,Roe herring,Gillnet,Central Coast,369,tons
+1997,Landings,Roe herring,Gillnet,Central Coast,33,tons
+1998,Landings,Roe herring,Gillnet,Central Coast,498,tons
+1999,Landings,Roe herring,Gillnet,Central Coast,1558,tons
+2000,Landings,Roe herring,Gillnet,Central Coast,1021,tons
+2001,Landings,Roe herring,Gillnet,Central Coast,509,tons
+2002,Landings,Roe herring,Gillnet,Central Coast,440,tons
+2003,Landings,Roe herring,Gillnet,Central Coast,319,tons
+2004,Landings,Roe herring,Gillnet,Central Coast,0,tons
+2005,Landings,Roe herring,Gillnet,Central Coast,0,tons
+2006,Landings,Roe herring,Gillnet,Central Coast,0,tons
+2007,Landings,Roe herring,Gillnet,Central Coast,0,tons
+2008,Landings,Roe herring,Gillnet,Central Coast,0,tons
+2009,Landings,Roe herring,Gillnet,Central Coast,0,tons
+2010,Landings,Roe herring,Gillnet,Central Coast,0,tons
+1980,Landings,Roe herring,Seine,Central Coast,0,tons
+1981,Landings,Roe herring,Seine,Central Coast,0,tons
+1982,Landings,Roe herring,Seine,Central Coast,2489,tons
+1983,Landings,Roe herring,Seine,Central Coast,2272,tons
+1984,Landings,Roe herring,Seine,Central Coast,3955,tons
+1985,Landings,Roe herring,Seine,Central Coast,2993,tons
+1986,Landings,Roe herring,Seine,Central Coast,2224,tons
+1987,Landings,Roe herring,Seine,Central Coast,2583,tons
+1988,Landings,Roe herring,Seine,Central Coast,3490,tons
+1989,Landings,Roe herring,Seine,Central Coast,6796,tons
+1990,Landings,Roe herring,Seine,Central Coast,5336,tons
+1991,Landings,Roe herring,Seine,Central Coast,7300,tons
+1992,Landings,Roe herring,Seine,Central Coast,6913,tons
+1993,Landings,Roe herring,Seine,Central Coast,8655,tons
+1994,Landings,Roe herring,Seine,Central Coast,10036,tons
+1995,Landings,Roe herring,Seine,Central Coast,8406,tons
+1996,Landings,Roe herring,Seine,Central Coast,3900,tons
+1997,Landings,Roe herring,Seine,Central Coast,2805,tons
+1998,Landings,Roe herring,Seine,Central Coast,7919,tons
+1999,Landings,Roe herring,Seine,Central Coast,5967,tons
+2000,Landings,Roe herring,Seine,Central Coast,6513,tons
+2001,Landings,Roe herring,Seine,Central Coast,5665,tons
+2002,Landings,Roe herring,Seine,Central Coast,2636,tons
+2003,Landings,Roe herring,Seine,Central Coast,2054,tons
+2004,Landings,Roe herring,Seine,Central Coast,2559,tons
+2005,Landings,Roe herring,Seine,Central Coast,3618,tons
+2006,Landings,Roe herring,Seine,Central Coast,2710,tons
+2007,Landings,Roe herring,Seine,Central Coast,439,tons
+2008,Landings,Roe herring,Seine,Central Coast,0,tons
+2009,Landings,Roe herring,Seine,Central Coast,0,tons
+2010,Landings,Roe herring,Seine,Central Coast,0,tons
+2019,Tonsperlicence,Roe herring,Gillnet,Strait of Georgia,9.0542,tons
+2019,Tonsperlicence,Roe herring,Seine,Strait of Georgia,39.7658,tons
+2019,#Licences,Roe herring,Gillnet,Strait of Georgia,1267,
+2019,#Licences,Roe herring,Seine,Strait of Georgia,252,
