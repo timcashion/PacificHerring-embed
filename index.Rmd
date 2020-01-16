@@ -503,7 +503,7 @@ Finally, we investigate the costs of closing the fishery for the 2019 season, as
 
 The Pacific herring (*Clupea pallasii*) roe fishery (sometimes referred to as the \'sac roe\' fishery) has a long history in British Columbia and is a valuable part of B.C.\'s seafood exports. This fishery makes up the largest component of the Pacific herring fisheries in B.C., with respect to the quantity of fish harvested and also the value of the catch. The fisheries that harvest Pacific herring in B.C. include: roe herring undertaken with purse seines and gillnets, food and bait herring caught with purse seines, herring spawn on kelp, and special use herring captured with multiple methods. Each of these has their own specific (or multiple) licences within the category that allow fishers to fish for this purpose. This report focuses specifically on the seine and gillnet roe fishery, while including the food and bait fishery and spawn on kelp fisheries when important for context. We also focus on one key fishing ground for the roe fishery, the Strait of Georgia (Figure \@ref(fig:map)), where the fishery has been especially concentrated in recent years. 
 
-```{r map, echo=FALSE, fig.cap="Figure 1. Map of roe herring fishing areas in British Columbia. Source: Fisheries and Oceans Canada, 2018.", out.width = '50%'}
+```{r map, echo=FALSE, fig.cap="Map of roe herring fishing areas in British Columbia. Source: Fisheries and Oceans Canada, 2018.", out.width = '50%'}
 #Probably need a map of the area here. 
 knitr::include_graphics("DFO_Map.png")
 ```
@@ -1604,12 +1604,19 @@ licence_value_plot <- licence_value %>%
   ylab("Value (1000 $)") + 
   facet_wrap(~Fishery, ncol=1, scales = "free") +
   scale_color_ipsum() + 
+  theme(axis.title.y = element_text(size = 3, margin = margin(t = 0, r = 10, b = 0, l = 0))) +
   NULL
 ggsave("./Images/Herring licence values by fishery type and fee. Source: Compiled from various reports of Nelson Bros Fisheries Ltd.tiff", dpi=300)
 
-ggplotly(licence_value_plot) %>% layout(font=plot_font)
-
+#ggplotly(licence_value_plot) %>% layout(font=plot_font)
 ##The above plot has overlapping labels for the facet titles and they are not left aligned
+
+licence_value_plot <- licence_value_plot +
+  ylab("")
+ggplotly(licence_value_plot) %>% 
+  #layout(font=plot_font)  %>% 
+  layout(yaxis = list(title = paste0(c("Value (1000 $)\n", rep("\n", 2)), collapse = "")))
+
 ```
 
 
